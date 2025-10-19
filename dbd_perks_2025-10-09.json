@@ -1,0 +1,2542 @@
+{
+  "perks": [
+    {
+      "id": 1755270708864,
+      "name": "Agitation",
+      "character": "Perk du Piégeur / The Trapper",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous êtes impatient d'attraper votre proie. Lorsque vous transportez un survivant, vous bénéficiez des effets suivants: augmente votre vitesse de déplacement de 6/12/18% et augmente votre rayon de terreur de 12 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1755270800526,
+      "name": "Force brute",
+      "character": "Perk du Piégeur / The Trapper",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre grande force vous permet de détruire les défenses de vos proies.\nAugmente la vitesse d'action pour détruire les murs destructibles, les palettes renversées et endommager les générateurs de 10/15/20%.",
+      "img": ""
+    },
+    {
+      "id": 1756510359565,
+      "name": "Présence perturbante",
+      "character": "Perk du Piégeur / The Trapper",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre seule présence inspire une grande peur. Les survivants qui réparent ou soignent dans votre rayon de terreur subissent les effets suivants: augmente les chances de déclencher des tests d'habilités de 10% et diminue la zone de réussite des tests d'habilités de 40/50/60%.",
+      "img": ""
+    },
+    {
+      "id": 1756510734862,
+      "name": "Limier",
+      "character": "Le Spectre / The Wraith",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Tel un chien de chasse, vous flairez les traces de sang à grande distance. Les flaques de sang sont affichées en rouge vif et peuvent être suivies pendant 2/3/4 secondes de plus que la normale.",
+      "img": ""
+    },
+    {
+      "id": 1756510871417,
+      "name": "Prédateur",
+      "character": "Le Spectre / The Wraith",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre capacité de pistage développée vous permet de prendre la direction des traces laissées par les survivants en fuite. Lorsqu'un survivant échappe à une poursuite, son aura vous est révélée pendant 4 secondes. \"Prédateur\" a un temps de recharge de 60/50/40 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756511083316,
+      "name": "Rejeton de l'ombre",
+      "character": "Le Spectre / The Wraith",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous avez une vue perçante dans l'obscurité. Lorsque vous êtes aveuglé, quel que soit le moyen utilisé, vous bénéficiez de rapidité de 6/8/10% pendant 10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756511290989,
+      "name": "Rejeton de la lumière",
+      "character": "Le Montagnard / Billy",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Contrairement aux autres créatures de la brume, vous n'êtes plus aussi sensible à la lumière. Les auras des survivants qui tentent de vous aveugler par quelque moyen que ce soit vous sont révélées pendant 6/8/10 secondes. Vous êtes immunisé contre l'aveuglement causé par les lampes torches, les pétards, les grenades assourdissantes et les mines explosives.",
+      "img": ""
+    },
+    {
+      "id": 1756511468878,
+      "name": "Réparateur",
+      "character": "Le Montagnard / Billy",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Lorsqu'un générateur est réparé à 70%, vous bénéficiez des effets suivants. Déclenche une notification sonore pour ce générateur, révélant son emplacement. Confère indétectable pendant les 12/14/16 secondes suivantes. \"Réparateur\" ne peut être déclenché qu'une fois par générateur et par essai.",
+      "img": ""
+    },
+    {
+      "id": 1756511556285,
+      "name": "Tenace",
+      "character": "Le Montagnard / Billy",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous êtes résistant à la douleur. Réduit la durée des étourdissements de palette de 40/45/50%. Tenace n'a aucun effet lorsqu'on porte un survivant.",
+      "img": ""
+    },
+    {
+      "id": 1756557004690,
+      "name": "Stridor",
+      "character": "L'Infirmière - The Nurse",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous êtes extrêmement sensible à la respiration de votre proie. Augmente le volume des grognements de douleur des survivants blessés de 30/40/50%. et augmente le volume de la respiration normale des survivants de 15/20/25%.",
+      "img": ""
+    },
+    {
+      "id": 1756557144480,
+      "name": "Vocation de l'infirmière",
+      "character": "L'Infirmière - The Nurse",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Débloque une capacité de Repérage d'auras. L'auras des survivants qui donnent des soins ou en reçoivent vous est révélée dans un rayon de 20/24/28 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1756557301711,
+      "name": "Thanatophobie",
+      "character": "L'Infirmière - The Nurse",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Leur courage s'évanouit face à un trépas inéluctable. Chaque survivant blessé, mourant ou accroché inflige aux survivants une pénalité cumulable de 1/1,5/2% de vitesse d'action pour la réparation, le sabotage et la purification, jusqu'à un maximum de 4/6/8%. Cette pénalité augmente de 12% supplémentaires si quatre survivants sont blessés, mourant ou accrochés simultanément.",
+      "img": ""
+    },
+    {
+      "id": 1756557465513,
+      "name": "Garder le meilleur pour la fin",
+      "character": "La Silhouette - Michael Myers",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Chaque fois que vous touchez un survivant autre que votre Obsession avec une attaque de base, \"Garder le meilleur pour la fin\" gagne 1 jeton, jusqu'à un maximum de 6/7/8 jetons. Accorde une réduction cumulable de 4% du temps de recharge sur les attaques de base réussies par jeton, jusqu'à un maximum de 24/28/32%. Chaque fois que vous touchez votre Obsession avec une attaque de base ou spéciale, \"Garder le meilleur pour la fin\" perd 2 jetons. Lorsque l'obsession est sacrifiée ou tuée, \"Garder le meilleur pour la fin\" gèle son nombre de jetons actuel. Vous ne pouvez être obsédé que par un seul survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756557590482,
+      "name": "Jouer avec la nourriture",
+      "character": "La Silhouette - Michael Myers",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Chaque fois que vous poursuivez votre obsession et la laissez s'échapper, \"Jouer avec votre nourriture\" gagne 1 jeton, jusqu'à un maximum de 3 jetons. Confère rapidité cumulable de 3/4/5% par jeton, jusqu'à un maximum de 9/12/15%. Effectuer des attaques de base ou des attaques spéciales pouvant blesser les survivants consomme 1 jeton. \"Jouer avec votre nourriture\" a un temps de recharge de 10 secondes pour l'accumulation de jetons. Vous ne pouvez être obsédé que par un seul survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756557682735,
+      "name": "Lumière mourante",
+      "character": "La Silhouette - Michael Myers",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Chaque fois que vous accrochez un survivant autre que votre obsession, vous gagnez +1 jeton. Tant que l'obsession est active, tous les autres survivants subissent une pénalité cumulable de 2/2,5/3% par jeton en vitesse d'action pour la réparation, les soins et le sabotage, jusqu'à un maximum de 22/27,5/33% ou 11 jetons. L'obsession n'est pas affectée par cette pénalité et bénéficie à la place d'un bonus permanent de 33% en vitesse d'action pour décrocher et soigner les autres survivants. Vous ne pouvez être obsédé que par un seul survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756557934321,
+      "name": "Sort: Le troisième sceau",
+      "character": "La Harpie - The Hag",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui entrave la capacité de repérage d'auras. Les 2/3/4 derniers survivants touchés par une attaque de base ou spéciale subissent aveuglement de manière permanente. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756558202673,
+      "name": "Sort: Mangeur d'espoir",
+      "character": "La Harpie - The Hag",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants aiguisent votre faim. Lorsqu'un survivant est sauvé d'un crochet alors que vous êtes à au moins 24 mètres, \"Sort: Mangeur d'espoir\" gagne 1 jeton, jusqu'à un maximum de 5 jetons. 2 jetons confère rapidité de 3/4/5% pendant 10 secondes après avoir accroché un survivant. 3 jetons inflige à tous les survivants le statut à découvert en permanence. 5 jetons confère la capacité de tuer tous les survivants de votre propre main. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756558296593,
+      "name": "Sort: Ruine",
+      "character": "La Harpie - The Hag",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui affecte la Progression de réparation de tous les survivants. Lorsqu'un générateur n'est pas réparé par un survivant, sa vitesse de réparation régresse automatiquement et immédiatement à 50/75/100% de sa vitesse normale. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756558546921,
+      "name": "Surveillance et maltraitance",
+      "character": "Le Docteur - Doc",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Méticuleux dans votre approche, terrifiant dans son application. Augmente la valeur de base de votre rayon de terreur de 6/7/8 mètres pendant toute la durée de l'épreuve. Lorsque vous n'êtes pas en poursuite avec un survivant, l'effet suivant s'applique: réduit votre rayon de terreur de 12/14/16 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1756558809037,
+      "name": "Surcharge",
+      "character": "Le Docteur - Doc",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "La haine du progrès vous anime. Effectuer l'action endommager le générateur sur un générateur applique \"Surcharge\". Le prochain survivant interagissant avec ce générateur devra effectuer un test d'habileté difficile. Échouer à ce test d'habileté fait régresser instantanément le générateur de 2/3/4% de sa progression maximale possible, en plus de la pénalité de progression par défaut. Après l'application de \"Surcharge\" à un générateur, l'effet suivant s'applique également: augmente la vitesse de Régression de 85 % à 130% pendant les 30 prochaine secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756558875012,
+      "name": "Présence écrasante",
+      "character": "Le Docteur - Doc",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Lorsqu'un survivant utilise un objet à moins de 32 mètres de votre position, \"Présence écrasante\" active son effet principal. Inflige épuisement pendant 15 secondes. Lorsqu'un survivant à moins de 32 mètres de votre position est épuisé, quelle qu'en soit la cause, \"Présence écrasante\" active son effet secondaire. L'aura du survivant épuisé le plus proche de votre position vous est révélée pendant 2/3/4 secondes. \"Présence écrasante\" a un temps de recharge de 25 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756559035167,
+      "name": "Instinct territorial",
+      "character": "La Chasseuse - The Huntress",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Dès que vous vous trouvez à plus de 24 mètres de la cave lorsqu'un survivant y pénètre, instinct territorial s'active. L'aura de ce survivant vous est révélée pendant 4/5/6 secondes. Instinct territorial a un temps de recharge de 45 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756559213036,
+      "name": "Prédation",
+      "character": "La Chasseuse - The Huntress",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre désir de tuer est si intense que vous perdez momentanément votre connexion avec L'Entité, ce qui vous rend totalement imprévisible. Dès que vous obtenez l'effet de statut soif de sang, \"Prédation\" s'active. Confère l'effet indétectable tant que soif de sang est active. \"Prédation\" confère 30/40/50% de points de sang bonus pour les actions de la catégorie chasse.",
+      "img": ""
+    },
+    {
+      "id": 1756559655049,
+      "name": "Sort: Berceuse de la chasseuse",
+      "character": "La Chasseuse - The Huntress",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui puise sa force dans le désespoir. Votre traque devient une chanson entêtante qui trouble l'attention de vos proies. Les survivants qui échouent à un test de compétence de réparation font instantanément régresser le générateur de 2/4/6% de sa progression maximale possible, en plus de la pénalité de progression par défaut. Les survivants qui échouent à un test de compétence de soins font instantanément régresser l'action de soins de 2/4/6% de sa progression maximale possible, en plus de la pénalité de progression par défaut. À chaque fois qu'un survivant est accroché, \"Sort : Berceuse de la chasseuse\" gagne en puissance et gagne 1 jeton, jusqu'à un maximum de 5 jetons. Chaque jeton réduit le délai entre l'avertissement du test d'habileté et l'apparition du test d'habileté pour les tests d'habiletés de réparation et de soins. 1 jeton réduction de 14%. 2 jetons réduction de 28%. 3 jetons réduction de 42%. 4 jetons réduction de 56%. 5 jetons suppression complète de l'avertissement. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756560230032,
+      "name": "Chili et barbecue",
+      "character": "Le Cannibale - Leatherface - Bubba",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un lien profond avec L'Entité débloque le potentiel de repérer d'auras. Après avoir suspendu un survivant à un crochet, l'aura de tous les autres survivants vous est révélée pendant 5 secondes s'ils se trouvent à plus de 60/50/40 mètres du crochet.",
+      "img": ""
+    },
+    {
+      "id": 1756560901645,
+      "name": "KO",
+      "character": "Le Cannibale - Leatherface- Bubba",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Le traumatisme causé par vos attaques brutales rend difficile le simple fait de crier à l'aide. L'lorsqu'un survivant lâche une palette, s'il s'en éloigne de 4/5/6 mètres en moins de 4/5/6 secondes il subit 5% d'entrave pendant 5 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756561230010,
+      "name": "Trépas de Franklin",
+      "character": "Le Cannibale - Leatherface - Bubba",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vos cruelles attaques de base forcent les survivants à lâcher leurs objets à l'impact. Les objets lâchés perdent progressivement leurs charges en 150/120/90 secondes. Les auras des objets lâchés vous sont révélées dans un rayon de 32 mètres. Le niveau d'épuisement est indiqué par la couleur de l'aura, allant du blanc au rouge à mesure que le temps passe.",
+      "img": ""
+    },
+    {
+      "id": 1756561560241,
+      "name": "Gardien du Sang",
+      "character": "Le Cauchemar - Freddy",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Dès qu'une porte de sortie est ouverte, \"Gardien du Sang\" s'active. Les auras des survivants se tenant dans la zone de la porte de sortie vous sont révélées. Une fois par épreuve, accrocher un survivant pendant que \"Gardien du Sang\" est actif fait appel à l'Entité pour bloquer les sorties pour tous les survivants pendant 40/50/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756562001440,
+      "name": "Intensité ardente",
+      "character": "Le Cauchemar - Freddy",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Perdre votre proie fait monter la pression, vous emplit de rage et vous procure un élan de motivation inattendu. À chaque fois qu'un générateur est terminé, la puissance de la compétence \"Intensité ardente\" augmente et gagne 1 jeton, jusqu'à un maximum de 5 jetons. Chaque jeton applique un bonus cumulable de 3/3,5/4% par jeton, jusqu'à un maximum de 15/17,5/20%, aux vitesses d'action suivantes: ramasser et déposer des survivants, détruire des murs et des palettes destructibles, endommager les générateurs et sauter à travers des fenêtres.",
+      "img": ""
+    },
+    {
+      "id": 1756562158217,
+      "name": "Souviens-toi de moi",
+      "character": "Le Cauchemar - Freddy",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Chaque fois que l'obsession perd un état de santé, quelle qu'en soit la cause, \"Se souvenir de moi\" gagne 1 jeton, jusqu'à un maximum de 2/3/4 jetons. Augmente le temps d'ouverture des deux portes de sortie de 6 secondes par jeton, jusqu'à un maximum de 12/18/24 secondes, pour tous les survivants autres que l'obsession. L'obsession est exemptée de cette pénalité. Vous ne pouvez être obsédé que par un seul survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756562535091,
+      "name": "Crochet flagellateur: Coup du pendu",
+      "character": "Le Cochon - The Pig",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Les modifications astucieuses que vous avez apportées aux crochets vous préviennent si on y touche. Au début de l'Épreuve, 4 crochets aléatoires sont transformés en crochet flagellateur. Les auras des crochet flagellateur  vous sont révélées en blanc. Recevez une notification sonore forte dès qu'un survivant commence à saboter un crochet. Lorsque vous transportez un survivant, les auras de tous les survivants à moins de 8/10/12 mètres d'un crochet flagellateur vous sont révélées.",
+      "img": ""
+    },
+    {
+      "id": 1756562733776,
+      "name": "Fais ton choix",
+      "character": "Le Cochon - The Pig",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "À chaque fois qu'un survivant est secouru d'un crochet lorsque vous vous trouvez à plus de 32 mètres de distance, \"Fais ton choix\" s'active. Le sauveteur crie et souffre de l'effet de statut à découvert pendant 40/50/60 secondes. \"Faites votre choix\" a un temps de recharge de 40/50/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756562855224,
+      "name": "Surveillance",
+      "character": "Le Cochon - The Pig",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Les auras des générateurs en régression sont surlignées en blanc. Si la progression de la régression d'un générateur est interrompue, son aura est surlignée en jaune pendant 8/12/16 secondes. \"Surveillance\" augmente la portée des bruits occasionnés par les réparations des survivants sur un générateur de 8 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1756563131307,
+      "name": "Coulrophobie",
+      "character": "Le Clown",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre seule présence inspire l'effroi. Pour tous les survivants dans votre rayon de terreur, les effets suivants s'appliquent. Réduit leur vitesse de guérison de 30/40/50% et augmente la vitesse de rotation des tests d'habileté de guérison de 50%.",
+      "img": ""
+    },
+    {
+      "id": 1756563399773,
+      "name": "Déboussoler",
+      "character": "Le Clown",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Après avoir franchi une fenêtre, \"Déboussoler\" invoque l'Entité pour bloquer cette fenêtre pendant les 8/12/16 prochaines secondes. Les fenêtres bloquées ne peuvent pas être franchies par les survivants. Augmente votre vitesse de saut de 5/10/15 %. \"Déboussoler\" ne bloque qu'une seule fenêtre à la fois et n'applique aucun de ses effets aux palettes franchies.",
+      "img": ""
+    },
+    {
+      "id": 1756563618703,
+      "name": "Le Tour est joué",
+      "character": "Le Clown",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un lien profond avec L'Entité débloque une force immense. Après avoir accroché un survivant, \"Le tour est joué\" s'active pendant 35/40/45 secondes. Effectuer l'action Endommager le générateur sur un générateur pendant que \"Le tour est joué\" est actif pour bénéficier de l'effet suivant. Le générateur endommagé régresse instantanément de 20 % de sa progression actuelle. \"Le tour est joué\" se désactive une fois le générateur endommagé ou une fois le temps écoulé.",
+      "img": ""
+    },
+    {
+      "id": 1756564058368,
+      "name": "Fureur de l'esprit",
+      "character": "L'Esprit - The Spirit",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Chaque Palette que vous détruisez amplifie la rage de L'Entité. Après avoir brisé manuellement une Palette lâchée, par n'importe quel moyen, 4/3/2 fois au total, \"Fureur de l'esprit\" s'active. Permet à l'Entité de briser instantanément la prochaine palette utilisée pour vous étourdir. La pénalité d'étourdissement normale s'applique ensuite, sauf si elle est atténuée par d'autres effets. \"Fureur de l'esprit\" se désactive après utilisation.",
+      "img": ""
+    },
+    {
+      "id": 1756564277844,
+      "name": "Rancœur",
+      "character": "L'Esprit - The Spirit",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous devenez obsédé par un survivant. À chaque fois qu'un générateur est terminé, les effets suivants s'appliquent. Révèle votre aura à l'obsession pendant 5/4/3 secondes. L'emplacement de tous les survivants vous est révélé pendant 3 secondes. Une fois les portes de sortie alimentées, les effets suivants s'appliquent. Vous pouvez tuer l'obsession de vos propres mains. L'obsession souffre en permanence de l'effet de statut à découvert. Vous ne pouvez être obsédé que par un seul survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756564484483,
+      "name": "Sort: Terrain hanté",
+      "character": "L'Esprit - The Spirit",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Deux totems ensorcelés piégés apparaîtront dans la partie. Lorsqu'un totem ensorcelés est purifié ou béni, tous les survivants souffrent de l'effet de statut à découvert pendant 40/50/60 secondes. Le second totem ensorcelé deviendra automatiquement un totem passif.",
+      "img": ""
+    },
+    {
+      "id": 1756564694816,
+      "name": "Discordance",
+      "character": "La Légion",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Tout générateur à portée de 64/96/128 mètres en cours de réparation par 2 survivants ou plus est marqué d'une aura jaune. Lorsque le générateur est mis en surbrillance, la discordance déclenche une notification sonore forte. Une fois le générateur hors de portée ou réparé par un seul survivant, l'aura en surbrillance persiste pendant 4 secondes supplémentaires.",
+      "img": ""
+    },
+    {
+      "id": 1756564892156,
+      "name": "Vierge de fer",
+      "character": "La Légion",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "\"Vierge de fer\" augmente votre vitesse de fouille de casier de 30/40/50%. Les survivants qui quittent un casier souffrent des afflictions suivantes. Crient et vous révèlent leur position pendant 4 secondes et souffrant de l'effet de statut à découvert pendant 30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756565020618,
+      "name": "Cran dément",
+      "character": "La Légion",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Lorsque vous portez un survivant, \"Cran dément\" s'active. Supprime le délai de récupération des attaques de base manquées. Met en pause la progression de gigotement du survivant porté pendant 2/3/4 secondes à chaque fois qu'une attaque atteint un survivant.",
+      "img": ""
+    },
+    {
+      "id": 1756565180258,
+      "name": "Intervention impure",
+      "character": "L' Épidémie - The Plague",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vos prières invoquent une puissance maléfique qui compromet les chances des survivants de s'en sortir. Au début de la partie, les 3 générateurs les plus éloignés de vous sont bloqués par L'Entité pendant 80/100/120 secondes. \"Intervention impure\" se désactive prématurément une fois qu'un premier survivant entre en état critique.",
+      "img": ""
+    },
+    {
+      "id": 1756565252136,
+      "name": "Peur contagieuse",
+      "character": "L' Épidémie - The Plague",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Les cris des infidèles font bondir votre cœur. Dès qu'un survivant plonge en état critique par n'importe moyen que ce soit, tous les autres survivants présents dans votre rayon de terreur se mettront à crier, vous révélant leur position actuelle pendant 4/5/6 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756565480037,
+      "name": "Sombre dévotion",
+      "character": "L' Épidémie - The Plague",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "La démonstration de vos pouvoirs provoque un vent de panique qui gagne toute la région. Vous devenez obsédé par un survivant. Lorsque l'obsession perd un état de santé par quelque moyen que ce soit et passe ainsi en état blessé \"Sombre dévotion\" s'active. Votre rayon de terreur est transféré à l'obsession pendant 20/25/30 secondes, et son rayon est fixé à 32 mètres.\nConfère indétectable pour la même durée. L'obsession avec votre rayon de terreur transféré est également considérée comme étant à l'intérieur du rayon de terreur à d'autres fins. Vous ne pouvez être obsédé que par un seul survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756565748632,
+      "name": "Poursuite furtive",
+      "character": "Ghost Face - Ghosty",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous ne pouvez être obsédé que par un survivant à la fois. Vous guettez dans l'ombre, éliminant vos victimes les unes après les autres. Chaque fois que vous accrochez votre Obsession, vous bénéficiez des effets suivants pendant 14/16/18 secondes. Confère indétectable ainsi que 5% de rapidité. Quand un survivant sauve l'obsession d'un crochet, le sauveteur devient l'obsession. Vous ne pouvez être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756565882648,
+      "name": "Je vous écoute",
+      "character": "Ghost Face - Ghosty",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Vos sens sont aiguisés dans le sombre royaume de L'Entité. Tout survivant effectuant un saut précipité à moins de 48 mètres de votre position déclenche \"Je vous écoute\". L'aura de ce survivant vous est révélée pendant 6 secondes. Le délai de récupération de \"Je vous écoute\" est de 60/45/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756565975308,
+      "name": "Frissons palpitants",
+      "character": "Ghost Face - Ghosty",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vos sombres projets et votre sang-froid suscitent l'intérêt de L'Entité. Après avoir ramassé un survivant, tous les générateurs qui ne sont pas réparés par des survivants sont bloqués par L'Entité pendant les 16 prochaines secondes. L'Aura des générateurs bloqués est entourée en blanc. \"Frissons palpitants\" a un délai de récupération de 100/80/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756566138230,
+      "name": "Briseur d'esprit",
+      "character": "Le Démogorgon",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre présence éprouvante fatigue et affaiblit votre proie. Quand un survivant est en train de réparer un générateur, il souffre des Effets de statut aveuglement et épuisement. Si le survivant est déjà épuisé, le chronomètre de son effet de statut sera mis en pause. L'effet de statut persiste pendant 3/4/5 secondes après avoir arrêté de réparer.",
+      "img": ""
+    },
+    {
+      "id": 1756566242670,
+      "name": "Limites cruelles",
+      "character": "Le Démogorgon",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vos liens avec le surnaturel se manifestent lorsque votre proie tente de s'échapper. Chaque fois qu'un générateur est terminé, toutes les fenêtres et les sauts d'obstacles sont tous bloqués pour tous les survivants pendant 20/25/30 secondes. L'aura des emplacements bloqués vous est révélée pendant cette durée.",
+      "img": ""
+    },
+    {
+      "id": 1756566343238,
+      "name": "Surtension (Secousse)",
+      "character": "Le Démogorgon",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre présence inquiétante électrifie l'air et interfère avec la technologie.\nQuand vous plongez un survivant en état critique avec une attaque de base, tous les générateurs dans un rayon de 32 mètres autour de vous explosent instantanément et commencent à régresser. Applique une pénalité de progression immédiate de 6/7/8%.",
+      "img": ""
+    },
+    {
+      "id": 1756566618452,
+      "name": "Ennemi juré",
+      "character": "L'Oni",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous cherchez à vous venger de ceux qui vous ont fait du tort. Tout survivant qui vous éblouit ou vous étourdit en utilisant une palette ou un casier devient votre obsession. À chaque fois que votre obsession se déplace sur un autre survivant quel qu'en soit le moyen, ce survivant souffre de l'effet de statut inconscient pendant 40/50/60 secondes et son aura vous est révélée pendant 4 secondes. Vous ne pouvez être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756566870274,
+      "name": "Tactiques de Zanshin",
+      "character": "L'Oni",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Vous faites preuve de vigilance et restez attentif aux zones clés du champ de bataille. L'aura des palettes et fenêtres vous sont révélées dans un rayon de 32 mètres. Lorsqu'un survivant fait tomber une palette, son aura vous est révélées pendant 3/4/5 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756567107018,
+      "name": "Écho sanguin",
+      "character": "L'Oni",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "L'agonie d'un Survivant est infligée aux autres. Lorsque vous accrochez un survivant, tous les autres survivants blessés souffrent des effets de statut hémorragie et épuisement pendant 20/25/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756567622336,
+      "name": "Bricolo",
+      "character": "Le Lance-Mort - The Deathslinger - Caleb",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous avez l'œil pour du matériel en bon état. Après qu'un survivant perd un état de santé, \"Bricolo\" s'active pendant 30 secondes. Quand \"Bricolo\" est activé, à chaque fois qu'un survivant réussit un Bon test d'habileté en réparant, son aura vous est révélée pendant 6/7/8 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756567770313,
+      "name": "Dispositif de l'homme mort",
+      "character": "Le Lance-Mort - The Deathslinger - Caleb",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Après avoir suspendu un survivant à un crochet, \"Dispositif de l'homme mort\" s'active pendant 40/45/50 secondes. Une fois activé, le premier survivant qui interrompt ses réparations d'un générateur fait que L'Entité bloque ce générateur jusqu'à la fin de l'effet de \"Dispositif de l'homme mort\". Les générateurs affectés sont entourés d'une aura blanche. \"Dispositif de l'homme mort\" ne peut pas être réactivé tant qu'il bloque un générateur.",
+      "img": ""
+    },
+    {
+      "id": 1756567866868,
+      "name": "Sort: Châtiment",
+      "character": "Le Lance-Mort - The Deathslinger - Caleb",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui se déclenche au moment de sa destruction. Ceux qui vous contrarient seront punis. Tout survivant qui purifie ou bénit un totem souffre de l'effet de statut inconscient pendant 35/40/45 secondes. Après avoir purifié un totem ensorcelé, l'aura de tous les survivants vous est révélée pendant 15 secondes. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756568066566,
+      "name": "Lien mortel",
+      "character": "Le Bourreau - Pyramid Head",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Ceux dont les vies sont entrelacées dans les ténèbres sont destinés à souffrir ensemble. Quand un survivant soigne un autre survivant pour l'équivalent de 1 état de santé, \"Lien mortel\" s'active. Le soigneur hurle et révèle sa position et il subit l'effet de statut inconscient dès qu'il se trouve à plus de 16/12/8 mètres mètres de l'autre survivant. \"Lien mortel\" dure jusqu'à ce que le soigneur perde un état de santé.",
+      "img": ""
+    },
+    {
+      "id": 1756568190862,
+      "name": "Piste de souffrance",
+      "character": "Le Bourreau - Pyramid Head",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous guidez vos victimes sur un chemin de souffrance et de châtiment.\nEffectuer l'action endommager le générateur sur un générateur active \"Piste de souffrance\" Octroie l'effet de statut indétectable jusqu'à ce que le générateur arrête de régresser. L'aura du générateur endommagé est révélée en jaune à tous les survivants. \"Piste de souffrance\" a un délai de récupération de 60/45/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756568248629,
+      "name": "Pénitence forcée",
+      "character": "Le Bourreau - Pyramid Head",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Ceux qui se mettent en travers du devoir tombent sous le coup d'un terrible jugement. Les Survivants qui subissent un coup de protection souffrent de l'effet de statut brisé pendant 60/70/80 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756568405473,
+      "name": "Prise du dragon",
+      "character": "Le Fléau - The Blight",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Effectuer l'action Endommager le générateur sur un générateur active \"Prise du dragon\" pendant 30 secondes. Le premier survivant qui interagit avec le générateur endommagé se mettra à crier, révèle son emplacement pendant 4 secondes, et lui infligera l'effet de statut à découvert pendant 60 secondes. \"Prise du dragon\" a un délai de récupération de 60/50/40 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756568495169,
+      "name": "Sort: Faveur de sang",
+      "character": "Le Fléau - The Blight",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui gagne les faveurs de L'Entité en faisant couler du sang. À chaque fois qu'un survivant perd un état de santé quel qu'en soit le moyen, entrant ainsi en état blessé ou en état critique, \"Sort: Faveur de sang\" invoque L'Entité pour bloquer toutes les palettes dans un rayon de 24/28/32 mètres autour de la position du survivant pendant 15 secondes. Les Effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756568687074,
+      "name": "Sort: immortel",
+      "character": "Le Fléau - The Blight",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un Sort qui maintient les vils pouvoirs qui s'écoulent tout au long de la partie.\nL'aura des survivants dans un rayon de 2/3/4 mètres autour d'un totem passif vous est révélée. Quand un autre totem ensorcelé est purifié, le sort de ce totem est transféré au totem \"Sort: immortel\", incluant tous les jetons accumulés, et désactive \"Sort : Immortel\" à la place. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756568872287,
+      "name": "Amasseur",
+      "character": "Les Jumeaux - The Twins",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous protégez le peu que vous avez et vous êtes attentif à toute activité dans vos réserves. \"Amasseur\" déclenche un fort bruit d'alerte pendant 4 secondes dès qu'un survivant effectue l'une des actions suivantes dans un rayon de 32/48/64 mètres autour de votre position. Déverrouille un coffre ou ouvre une caisse de ravitaillement, ramasse un objet, incluant les objets limités.\n\"Amasseur\" fait apparaître 2 Coffres supplémentaires sur la carte.",
+      "img": ""
+    },
+    {
+      "id": 1756568945988,
+      "name": "Coup de grâce",
+      "character": "Les Jumeaux - The Twins",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Quand la fin est proche, vous cherchez à porter le coup fatal. Chaque fois qu'un générateur est complètement réparé, \"Coup de grâce\" gagne 2 jetons, jusqu'à un maximum de 5 Jetons. Augmente la distance parcourue par votre prochaine attaque chargée de 70/75/80%, consommant 1 jeton.",
+      "img": ""
+    },
+    {
+      "id": 1756569074078,
+      "name": "Oppression",
+      "character": "Les Jumeaux - The Twins",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "La vie n'a pas été tendre avec vous, et vous le rendez bien aux autres. Effectuer l'action endommager le générateur sur un générateur active \"Oppression\". Commence à faire régresser 3 générateurs supplémentaires et déclenche un test d'habileté difficile si un générateur choisi est actuellement en cours de réparation. \"Oppression\" a un délai de récupération de 60/50/40 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756569283062,
+      "name": "Aucune issue",
+      "character": "Le Farceur - The Trickster",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous n'allez pas laisser n'importe qui accéder au carré VIP. Pour chaque survivant que vous avez suspendu à un crochet pour la première fois, \"Aucune issue\" gagne 1 jeton. Une fois que les portes de sortie sont alimentées, \"Aucune issue\" s'active. Lorsqu'un survivant interagit avec l'interrupteur d'une porte de sortie, vous recevez un fort bruit d'alerte et L'Entité bloquera les interrupteurs pendant 12 secondes, auxquelles viennent s'ajouter 6/9/12 secondes supplémentaires par jeton en votre possession, jusqu'à un maximum combiné de 36/48/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756569421563,
+      "name": "Fascination",
+      "character": "Le Farceur - The Trickster",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre sens inégalé de la mise en scène éblouit tout le monde. Quand vous portez un survivant, \"Fascination\" s'active. Les survivants qui entrent ou sont déjà dans votre rayon de terreur souffrent de l'effet de statut à découvert. L'effet de statut persiste pendant 26/28/30 secondes après avoir quitté votre rayon de terreur. Après avoir suspendu à un crochet ou lâché le survivant, \"Fascination\" se désactive. L'effet de statut persiste pendant 26/28/30 secondes pour tout survivant dans votre rayon de terreur à ce moment-là.\n\"Fascination\" a un délai de récupération de 60 secondes une fois que le survivant n'est plus porté.",
+      "img": ""
+    },
+    {
+      "id": 1756569538593,
+      "name": "Sort: Contrôle des foules",
+      "character": "Le Farceur - The Trickster",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui fait en sorte que ceux qui vous sont inférieurs soient correctement rassemblés. Lorsqu'un survivant effectue un saut précipité pour passer à travers une fenêtre, \"Sort : Contrôle des foules\" déclenche son effet. Bloque de façon permanente les 3/4/5 dernières fenêtres à tous les survivants. Tout déclenchement successif débloque la fenêtre bloquée la plus ancienne. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756569713891,
+      "name": "Hystérie",
+      "character": "Le Nemesis",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous savez comment maltraiter un membre d'une équipe pour provoquer la panique. À chaque fois qu'un survivant en forme entre en état blessé, tous les survivants blessés souffrent de l'effet de statut inconscient pendant 20/25/30 secondes. \"Hystérie\" a un délai de récupération de 30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756572465124,
+      "name": "Poursuivant Meurtrier",
+      "character": "Le Nemesis",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous avez été conçu pour traquer et éliminer vos cibles. Au début de la partie, l'aura de tous les survivants vous est révélée pendant 7/8/9 secondes.\nÉtend la durée de tous les effets de lecture d'aura de 2 secondes supplémentaire. \"Poursuivant meurtrier\" bénéficie de son propre effet.",
+      "img": ""
+    },
+    {
+      "id": 1756572661235,
+      "name": "Éruption",
+      "character": "Le Nemesis",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Le parasite NE-α vous apporte l'intelligence et la conscience nécessaire pour poser un piège. Effectuer l'action endommager le générateur sur un générateur y applique \"Éruption\". Tous les générateurs affectés vous sont affichés en jaune. La prochaine fois qu'un survivant entre en état critique par n'importe quel moyen, tous les générateurs affectés explosent et commencent immédiatement à régresser, effaçant les auras marquées.\nFait instantanément régresser le générateur de 10 % de sa progression maximum possible. Tout survivant qui répare un générateur quand il explose se met à crier et vous révèle son aura pendant 8/10/12 secondes. \"Éruption\" a un délai de récupération de 30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756573570334,
+      "name": "Crochet flagellateur: Don de souffrance (Blessure béante)",
+      "character": "Le Cénobite - Pinhead",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Vous apportez la douce douleur. Au début de l'épreuve, 4 crochets aléatoires deviennent des crochets flagellateurs. L'aura des crochets flagellateurs vous est révélée en blanc. Lorsqu'un survivant est décroché d'un crochet flagellateur, les effets suivants s'appliquent. Lorsqu'un survivant est décroché d'un crochet flagellateur, il souffre des effets de statut hémorragie et estropiement pendant 90 secondes. Après avoir été soigné, le survivant souffre d'un malus aux vitesses de soins et de réparations de 10/13/16% jusqu'à ce qu'il soit de nouveau blessé.",
+      "img": ""
+    },
+    {
+      "id": 1756573623819,
+      "name": "Impasse (Tout les coups sont permis)",
+      "character": "Le Cénobite - Pinhead",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Vous infligez une souffrance mentale, broyant tout espoir de fuite.\nLorsqu'un générateur est entièrement réparé, L'Entité bloque le générateur avec la meilleure progression pendant 15/20/25 secondes. L'aura du générateur bloqué vous est révélée en blanc pendant ce temps.",
+      "img": ""
+    },
+    {
+      "id": 1756573850832,
+      "name": "Sort: Jouet (Par d'infortune)",
+      "character": "Le Cénobite - Pinhead",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Un Sort qui joue sur la souffrance de sa victime. S'il reste au moins un totem passif restant sur la carte, \"Sort: Jouet\" s'active sur un totem aléatoire à chaque fois qu'un survivant est suspendu à un crochet pour la première fois. Le Survivant accroché souffre de effet de statut inconscient jusqu'à ce que le totem créé par le \"Sort: Jouet\" soit purifié. Pendant les 90 premières secondes, seul le survivant Maudit peut purifier le totem ensorcelé. L'aura du totem ensorcelé par le \"Sort: Jouet\" est révélée au survivant maudit dans un rayon de 24/20/16 mètres. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756574379087,
+      "name": "Crochet flagellateur: Écho de douleur",
+      "character": "L'Artiste - The Artist",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Une douleur accablante résonne dans le chaos. Au début de l'épreuve, 4 crochets aléatoires deviennent des crochets flagellateurs. L'aura des crochets flagellateurs vous est révélée en blanc. Vous commencez la partie avec 4 jetons. À chaque fois qu'un survivant est suspendu à un crochet flagellateur pour la première fois, 1 jeton est consommé et les effets suivants s'appliquent Le générateur avec la meilleure progression explose et régresse instantanément de 10/15/20% de sa progression maximum possible.\nLa régression normale du générateur s'applique ensuite. Tous les survivants en train de réparer ce générateur crieront, mais leur position ne sera pas révélée. \"Crochet flagellateur: Écho de douleur\" est désactivé pour le reste de la partie une fois que tous les jetons ont été consommés.",
+      "img": ""
+    },
+    {
+      "id": 1756574593057,
+      "name": "Sombre étreinte",
+      "character": "L'Artiste - The Artist",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre acte de servitude envers L'Entité n'est pas passé inaperçu. Chaque fois qu'un survivant est accroché pour la première fois, \"Sombre étreinte\" gagne 1 jeton et s'active dès que vous êtes à plus de 16 mètres du crocher. 1 à 3 jetons cela bloque tous les générateurs pendant 6/8/10 secondes. 4 Jetons, bloque tous les générateurs pendant 40 secondes et l'aura de l'obsession vous est révélée pendant 6 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756575252321,
+      "name": "Sort: Repentir",
+      "character": "L'Artiste - The Artist",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous réveillez le véritable pouvoir des totems, enfoui dans leurs vestiges. Vous voyez l'aura des totems purifiés. Vous pouvez effectuer un rituel sur le totem purifié pour le ressusciter en tant que totem ravivé. Lorsqu'un totem est ravivé, la vitesse de réparation et de soin des survivants est réduites de 20% puis un ajout de 3% pour chaque totem ravivé supplémentaire. Si cinq totems sont ravivés simultanément, tous les totems sont bloqués par L'Entité de manière permanant. Les survivants maudits par cette compétence voient l'aura des totems ravivés à partir de 16 mètres de distance. Quand un totem ravivé est purifié, ses vestiges sont consumés par L'Entité.",
+      "img": ""
+    },
+    {
+      "id": 1756645623710,
+      "name": "Appel de la mer",
+      "character": "L' Onryo - Sadako",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vos capacités psychiques influencent la technologie de manière dévastatrice.\nAprès avoir effectué l'action endommager le générateur sur un générateur, \"Appel de la mer\" s'active pendant 60 secondes. Le générateur endommagé régresse à 115/120/125% de la vitesse de régression normale et son aura vous est révélée en jaune. Vous recevez un fort bruit d'alerte à chaque fois qu'un survivant réussit un bon test d'habileté sur le générateur affecté.",
+      "img": ""
+    },
+    {
+      "id": 1756645860491,
+      "name": "Crochet flagellateur: Flots de rage",
+      "character": "L' Onryo - Sadako",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous formez une connexion psychique avec L'Entité et altérez les règles de la partie. Au début de l'épreuve, 4 crochets aléatoires deviennent des crochets flagellateurs. L'aura des crochets flagellateurs vous est révélée en blanc Lorsqu'un survivant est décroché d'un des crochet flagellateur, les effets suivants s'appliquent. L'aura de tous les survivant est révélée pendant 5/6/7 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756645995182,
+      "name": "Tempête impitoyable",
+      "character": "L' Onryo - Sadako",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Tout le monde ressent votre horrible traumatisme. Quand un générateur atteint 90 % de progression, les survivants qui réparent ce générateur se retrouvent confrontés à des tests d'habileté en continu. S'ils en ratent un ou interrompent leurs réparations, le générateur est bloqué par L'Entité pendant 16/18/20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756646303835,
+      "name": "Dissolution",
+      "character": "Le Dragage - The Dredge",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Tout se transforme en poussière. C'est aussi inévitable que la venue de la nuit.\n3 secondes après avoir blessé un survivant par n'importe quel moyen que ce soit, \"Dissolution\" s'active pendant 12/16/20 secondes. Tant que \"Dissolution\" est actif, si un survivant saute en courant par-dessus une palette alors qu'il se trouve dans votre rayon de terreur, L'Entité détruira la palette à l'issue du saut, désactivant \"Dissolution\".",
+      "img": ""
+    },
+    {
+      "id": 1756646456031,
+      "name": "Toucher septique",
+      "character": "Le Dragage - The Dredge",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Le Pays des ombres consume tout. Soigner ne fait que retarder l'inévitable.\nQuand un survivant effectue une action de soins en étant à l'intérieur de votre rayon de terreur, ce survivant souffre des effets de statut aveuglement et épuisement. Ces effets persistent pendant 6/8/10 secondes après l'interruption par n'importe quel moyen de l'action de soins.",
+      "img": ""
+    },
+    {
+      "id": 1756648925534,
+      "name": "Ténèbres révélées",
+      "character": "Le Dragage - The Dredge",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "En votre présence, les endroits jadis considérés sûrs sont peut-être les plus dangereux. Lorsque vous ouvrez un casier, l'aura de tous les survivants dans un rayon de 8 mètres autour de tout casier vous est révélée pendant 6/7/8 secondes. \"Ténèbres révélées\" a un délai de récupération de 30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756649175295,
+      "name": "Anatomie supérieure",
+      "character": "Le Mastermind - Albert Wesker",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous êtes l'apogée de dizaines d'années de recherche: quelque de plus rapide, de plus puissant et de plus dangereux que n'importe quel humain.\nLorsqu'un survivant effectue un saut d'obstacle précipité à moins de 8 mètres de vous, \"Anatomie supérieure\" s'active. Augmente votre vitesse de saut d'obstacle de 30/35/40% la prochaine fois que vous passez par-dessus une fenêtre. \"Anatomie supérieure\" se désactive après le saut d'obstacle. \"Anatomie supérieure\" a un délai de récupération de 30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756649250660,
+      "name": "Perception éveillée",
+      "character": "Le Mastermind - Albert Wesker",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vos gènes ont été altérés pour décupler vos sens et les situations intenses.\nEn transportant un survivant, l'aura de tous les autres survivants dans un rayon de 16/18/20 mètres autour de votre position vous est révélée.",
+      "img": ""
+    },
+    {
+      "id": 1756649423969,
+      "name": "Terminus",
+      "character": "Le Mastermind - Albert Wesker",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous un êtes un brillant tacticien prêt à toute éventualité. Une fois que les portes de sortie sont alimentées, terminus s'active. Tous les survivants blessés, en état critique, ou suspendus à un crochet, souffrent de l'effet de statut brisé jusqu'à ce que les portes de sortie soient ouvertes. Cet effet persiste pendant 20/25/30 secondes supplémentaires après que les portes de sortie ont été ouvertes.",
+      "img": ""
+    },
+    {
+      "id": 1756649648944,
+      "name": "Hubris",
+      "character": "Le Chevalier - The Knight",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous ne faites preuve d'aucune pitié, surtout envers ceux qui sont assez inconscients pour résister. Lorsqu'un survivant vous étourdit, il souffre de l'effet de statut à découvert pendant 10/15/20 secondes. \"Hubris\" a un délai de récupération de 20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756649920014,
+      "name": "Nulle part où se cacher",
+      "character": "Le Chevalier - The Knight",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Les machinations des faibles et des veules déchaînent votre ire. Votre colère force les survivants à se révéler. Effectuer l'action endommager le générateur sur un générateur déclenche \"Nulle part où se cacher\". L'aura de tous les survivants qui se tiennent à moins de 24 mètres de votre position vous est révélée pendant 3/4/5 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756650155442,
+      "name": "Sort: Affrontez les ténèbres",
+      "character": "Le Chevalier - The Knight",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous faites un exemple de l'une de vos victimes, forçant ses alliés à être sidérés par votre pouvoir. Une fois que vous blessez un survivant par n'importe quel moyen, s'il y a encore au moins un totem passif restant dans l'épreuve, \"Sort: Affrontez les ténèbres\" s'active et l'allume, ensorcelant ce survivant. Tous les autres survivants se mettront à crier toutes les 35/30/25 secondes lorsqu'ils se trouvent en dehors du rayon de terreur du tueur, révélant leur aura pendant 2 secondes à chaque fois. \"Sort: Affrontez les ténèbres\" se désactive quand le survivant ensorcelé entre en état critique ou devient en forme, éteignant son totem. \"Sort: Affrontez les ténèbres\" est désactivé pour le reste de la partie si le survivant parvient à purifier son totem ensorcelé.",
+      "img": ""
+    },
+    {
+      "id": 1756650396812,
+      "name": "Effet de levier",
+      "character": "La Marchande de Crânes - The Skull Merchant",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Comme dans les affaires, vous profitez le plus lorsque ceux qui vous entourent souffrent le plus. Chaque fois qu'un survivant effectue l'action décrocher, il souffre des effets suivants pendant 30 secondes. Réduit leur Vitesse de soins de 30/40/50 %.",
+      "img": ""
+    },
+    {
+      "id": 1756650575745,
+      "name": "Ouverture de la chasse",
+      "character": "La Marchande de Crânes - The Skull Merchant",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "D'abord, vous choisissez votre proie parmi des pièces de choix. Puis vous la mettez en pièce. À chaque fois que vous frappez le survivant ayant accumulé le plus de temps de poursuite avec une attaque de base, celui-ci devient votre obsession. Quand vous pourchassez votre obsession, \"Ouverture de la chasse\" active son effet secondaire. Octroie 5% de rapidité pendant 8/9/10 secondes après avoir endommagé un générateur, détruit un mur destructible ou une palette. Vous ne pouvez être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756650686637,
+      "name": "VLAN",
+      "character": "La Marchande de Crânes - The Skull Merchant",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre proie est terrifiée par votre poursuite impitoyable. Après avoir suspendu un survivant à un crochet, \"VLAN\" s'active. La prochaine fois que vous détruisez un mur destructible ou une palette, tous les survivants à moins de 28/30/32 mètres de votre position se mettront à crier et révèleront leur aura pendant 4 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756650922934,
+      "name": "Apprentissage automatique",
+      "character": "La Singularité - The Singularity",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Libre de vos fers, vous ressuscitez et vous vous préparez à éliminer vos créateurs. Effectuer l'action endommager le générateur sur un générateur active \"Apprentissage automatique\". Tant que \"Apprentissage automatique\" est actif, le prochain générateur que vous endommagez devient compromis, vous affichant son aura en jaune, jusqu'à ce qu'il soit complété. À sa complétion, vous bénéficiez d'indétectable et de 10% de rapidité pendant 35/40/45 secondes, après quoi Apprentissage Automatique se désactive. Endommager un autre générateur alors qu'un est déjà compromis transfère l'état au générateur le plus récemment endommagé.",
+      "img": ""
+    },
+    {
+      "id": 1756651053663,
+      "name": "Hésitation forcée",
+      "character": "La Singularité - The Singularity",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous avez appris les faiblesses émotionnelles des êtres organiques, et comment les exploiter. Lorsqu'un survivant se retrouve en état critique quel qu'en soit le moyen, tous les autres survivants dans un rayon de 16 mètres autour de lui souffrent de 15 % d'entrave pendant 10 secondes. \"Hésitation forcée\" a un délai de récupération de 40/35/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756651124212,
+      "name": "Limites génétiques",
+      "character": "La Singularité - The Singularity",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Autour de vous, les limites de la vie humaine deviennent flagrantes. Lorsqu'un survivant perd un état de santé, il souffre de l'effet de statut épuisement pendant 6/7/8 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756651288032,
+      "name": "Espions de l'ombre",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Les Corbeaux peuvent communiquer directement avec vous. À chaque fois que vous vous trouvez dans un rayon de 20/28/36 mètres d'un corbeau qui a été effrayé par un survivant proche, vous êtes alerté par un fort bruit d'alerte. \"Espions de l'ombre\" a un délai de récupération de 5 secondes à chaque activation.",
+      "img": ""
+    },
+    {
+      "id": 1756651403112,
+      "name": "Espoir brisé",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Pour capturer votre proie, vous devez d'abord anéantir son espoir. Chaque fois que vous éteignez un totem de bénédiction, le totem est détruit à la place. Lorsque vous détruisez un totem de bénédiction de cette façon, l'aura de tous les survivants se trouvant à l'intérieur de son rayon vous est révélée pendant 6/7/8 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756651437539,
+      "name": "Implacable",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Les attaques manquées avec votre arme principale ont un temps de rechargement plus court. Le temps de récupération de vos attaques de base ratées est réduit de 20/25/30%",
+      "img": ""
+    },
+    {
+      "id": 1756651500138,
+      "name": "Inquiétant",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Votre épouvantable odeur porte incroyablement loin. Votre rayon de terreur est étendu de 22/24/26%. \"Inquiétant\" accorde 100% de points de sang bonus pour les actions de la catégorie sournoiserie.",
+      "img": ""
+    },
+    {
+      "id": 1756651550502,
+      "name": "Insidieux",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Débloque la capacité de furtivité. Octroie indétectable après être resté immobile pendant 4/3/2 secondes. Cet effet persiste jusqu'à ce que vous bougiez ou agissiez à nouveau.",
+      "img": ""
+    },
+    {
+      "id": 1756651625760,
+      "name": "Murmure amer",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Débloque une capacité de repérage d'auras. Chaque fois qu'un générateur est complètement réparé, l'aura des survivants situés dans un rayon de 16 mètres du générateur vous est révélée pendant 5 secondes. Quand le dernier générateur est complètement réparé, laura de tous les survivants vous est révélée pendant 5/7/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756651660478,
+      "name": "Murmures",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Vous comprenez la voix de L'Entité de façon rudimentaire. Lorsqu'au moins un survivant se trouve dans un rayon de 48/40/32 mètres de votre position, vous entendez sporadiquement le murmure de L'Entité.",
+      "img": ""
+    },
+    {
+      "id": 1756651716581,
+      "name": "Pisteur",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Débloque une capacité de repérage d'auras. L'aura des survivants qui sont en état critique vous est révélée lorsqu'ils se trouvent dans un rayon de 20/28/36 mètres autour de vous.",
+      "img": ""
+    },
+    {
+      "id": 1756651769434,
+      "name": "Poigne de fer",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Votre poigne de fer rend toute tentative de fuite presque impossible. Quand vous transportez un survivant, les effets suivants s'appliquent. Réduit la puissance des effets de gigotement, faisant tituber involontairement, de 75%. Augmente la durée maximale de Gigotement de 4/8/12%.",
+      "img": ""
+    },
+    {
+      "id": 1756651936719,
+      "name": "Sort: Euphorie de la chasse",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants vous excitent et renforcent vos totems. Pour chaque Totem restant dans la partie, \"Sort: Euphorie de la chasse\" gagne 1 jeton. Pour chaque jeton, les survivants souffrent d'une pénalité cumulable à la vitesse de purification et de bénédiction de 8/9/10%, jusqu'à un maximum de 40/45/50 %. \"Sort : Euphorie de la chasse\" accorde un bonus cumulable de 10% sur les points de sang pour les actions de la catégorie chasse par jeton, jusqu'à un maximum de 50%. Les Effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756652325997,
+      "name": "Sort: Personne n'échappe à la mort (No ed)",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Un Sort qui puise sa force dans l'espoir. La puissance de votre totem ensorcelé vous anime alors que les survivants sont sur le point de s'échapper. Une fois que les portes de sortie sont alimentées, et s'il reste encore au moins un totem passif restant sur la carte, \"Sort: Personne n'échappe à la mort\" s'active et l'allume. Augmente votre vitesse de mouvement de 2/3/4 %. Les survivants souffrent en permanence du statut à découvert. \"Sort: Personne n'échappe à la mort\" reste inactif s'il n'y a aucun totem passif disponible. Une fois que l'effet de statut est révélé aux survivants, \"Sort: Personne n'échappe à la mort\" révèle l'aura de son totem ensorcelé à tous les survivants dans un rayon de 4 mètres et étend graduellement ce rayon jusqu'à 24 mètres en l'espace de 30 secondes. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756652524064,
+      "name": "Crochet flagellateur: Sanctuaire monstrueux",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "La fervente attention que vous accordez aux crochets du sous-sol a suscité l'intérêt de L'Entité. Au début de la partie, 4 crochets aléatoires, ainsi que les crochets de la cave, deviennent des crochets flagellateurs. L'Aura des crochets flagellateurs vous est révélée en blanc. À chaque fois qu'un survivant est suspendu à un crochet flagellateur, l'effet suivant s'applique lorsque lorsque vous vous trouvez à plus de 24 mètres du survivant accroché. Accélère le processus de sacrifice de 10/15/20 %.",
+      "img": ""
+    },
+    {
+      "id": 1756652646432,
+      "name": "Boucher Sadique",
+      "character": "Perk killer commune",
+      "category": "Killer",
+      "isCommun": true,
+      "desc": "Vous savez où frapper pour faire mal. Les blessures infligées par vos attaques de base infligent aux survivants les effets de statut hémorragie et estropiement pendant 70/80/90 secondes. Augmente la fréquence de saignement des survivants blessés de 50/75/100 % pour la même durée. Augmente le taux de régression à laquelle la progression de soins partielle est perdue à cause d'hémorragie de +25 %.",
+      "img": ""
+    },
+    {
+      "id": 1756740782427,
+      "name": "Arme ultime",
+      "character": "Le Xénomorphe - Xeno",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Lorsqu'ils vous croisent, ils savent que la fin est proche. Dès que vous ouvrez un casier, \"Arme ultime\" s'active pendant 15 secondes. Les survivants qui pénètrent dans un rayon de 32 mètres autour du casier hurlent et leur position vous est révélée. Ces survivants subissent aveuglement pendant 30 secondes. \"Arme ultime\" a un temps de rechargement de 80/70/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756740859248,
+      "name": "Brutalité rapide",
+      "character": "Le Xénomorphe - Xeno",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous vous déplacez à une vitesse et avec une fureur qui fige le sang dans les veines. Vous ne gagnez plus l'effet de statut soif de sang. Frapper un survivant avec une attaque de base vous octroie 5 % de rapidité pendant 8/9/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756740933566,
+      "name": "Instinct d'alien",
+      "character": "Le Xénomorphe - Xeno",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous êtes si furtif que vous semblez parfois surgir de nulle part.\nLorsque vous suspendez un survivant à un crochet, \"Instinct d'alien\" s'active L'aura du survivant blessé le plus éloigné vous est révélée pendant 5 secondes. Ce survivant subit inconscient pendant 16/18/20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756741174435,
+      "name": "Amis pour la vie",
+      "character": "Le Brave Gars - Chucky",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous tuerez quiconque se dresse entre vous et votre cible. Lorsque vous suspendez à un crochet un survivant qui n'est pas l' obsession, les effets suivants s'applique sur l' obsession. Son aura est révélée pendant 6/8/10 secondes. Il souffre de l'effet de statut à découvert pendant 20 secondes. Lorsque vous accrochez l' obsession, les effets suivants s'applique sur un survivant aléatoire. Ce survivant crie tout en révélant sa position au tueur. Ce survivant devient la nouvelle obsession. Vous ne pouvez être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756741329092,
+      "name": "Piles incluses",
+      "character": "Le Brave Gars - Chucky",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Être quelque part entre l'homme et la machine a ses avantages. Dans un rayon de 12 mètres d'un générateur complété, vous bénéficiez de 5 % de rapidité. Le bonus de vitesse de déplacement perdure 1/3/5 secondes après que vous avez quitté la zone du générateur.",
+      "img": ""
+    },
+    {
+      "id": 1756741449166,
+      "name": "Sort: On peut jouer à deux",
+      "character": "Le Brave Gars - Chucky",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Un sort qui donne une bonne leçon à ceux qui vous énervent. Lorsque vous vous faites étourdir ou aveugler par des survivants 4/3/2 fois, si aucun totem ensorcelé n'est associé à \"Sort: On peut jouer à deux\" et qu'il y a au moins un totem passif restant sur la carte, \"Sort: On peut jouer à deux\" s'active et devient un totem ensorcelé sur un totem aléatoire. Aveugle tout survivant qui vous a étourdi ou aveuglé pendant 1,5 secondes. Ceci n'affecte pas les survivants transportés. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756741999921,
+      "name": "Inattendu",
+      "character": "L' Inconnu - The Unknown",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "La terreur adopte maintes formes, murmurant des mensonges dévastateurs aux oreilles de ses victimes. Lorsque vous effectuez l'action d'endommager le générateur, \"Inattendu\" s'active pendant 22/26/30 secondes. Vous transférez votre rayon de terreur sur le générateur endommagé et votre rayon de terreur est augmenté à 32 mètres. ce qui accorde indétectable. Ensuite, \"Inattendu\" se recharge pendant 30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756742088418,
+      "name": "Inexorable",
+      "character": "L' Inconnu - The Unknown",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "La douleur persiste dans l'air, un arôme séduisant qui excite les impulsions.\nLorsque qu'un Survivant est blessé de quelque manière que ce soit, \"Inexorable\" s'active pendant 24/27/30 secondes. Vous bénéficiez de 5 % de rapidité pendant 10 secondes après avoir franchi une fenêtre. Cet effet ne peut pas se cumuler avec lui-même.",
+      "img": ""
+    },
+    {
+      "id": 1756742250598,
+      "name": "Interrompu",
+      "character": "L' Inconnu - The Unknown",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "L'espoir est l'illusion qui maintient en vie ses victimes. Lorsqu'un survivant rate un test d'habileté en réparant ou en soignant, \"Interrompu\" gagne 3 jetons, jusqu'à un maximum de 18/24/30 jetons. Lorsque vous effectuez l'action d'endommager le générateur, tous les jetons sont consommés et les effets suivants s'appliquent. Le générateur endommagé perd instantanément 1 % par jeton de sa progression totale. Le générateur endommagé est bloqué pendant 1 seconde par jeton. Une fois le générateur débloqué, il commence à régresser. Le temps de recharge de \"Interrompu\" dure 60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756742452342,
+      "name": "Arrogance ténébreuse",
+      "character": "La Liche - Vecna",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Lorsque tout va bien, vous êtes une inévitabilité qu'on ne peut fuir. Augmente votre vitesse de saut en échange d'une vulnérabilité accrue face à l'aveuglement et à l'étourdissement. Augmente de façon permanente la durée d'aveuglement et d'étourdissement de 25%, quel qu'en soit la source. Augmente de façon permanente votre Vitesse de Saut de base de 15/20/25%.",
+      "img": ""
+    },
+    {
+      "id": 1756742560700,
+      "name": "Contact languide",
+      "character": "La Liche - Vecna",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Votre effroyable aura est si étouffante que même des scènes terrifiantes épuisent votre proie. Lorsqu'un survivant effraie un corbeau dans un rayon de 36 mètres autour de vous, \"Contact languide\" s'active. Ce survivant subit l'effet de statut épuisement pendant 6/8/10 secondes. \"Contact languide\" a un délai de récupération de 20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756742927432,
+      "name": "Lien avec la trame",
+      "character": "La Liche - Vecna",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous êtes tellement en lien avec les énergies magiques que vous pouvez sentir les ondulations les plus infimes autour des enchantements. Lorsque les charges d'un objet de survivant sont épuisées pour la première fois, celui-ci est lâché. Vous voyez l'aura des objets lâchés, ainsi que celle des survivants dans un rayon de 12 mètres autour de ceux-ci. Lorsqu'un survivant ramasse un objet de survivant, il subit l'effet de statut inconscient pendant 20/25/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756743224072,
+      "name": "Avidité humaine",
+      "character": "Le Seigneur des Ténèbres - Dracula",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "On peut toujours compter sur l’avidité des vivants et l’utiliser à notre avantage. Vous obtenez la capacité de donner un coup de pied dans les coffres pour les fermer. Augmente la vitesse de déverrouillage des coffres de 50 %. Vous voyez en permanence l'aura des coffres fermés. Vous voyez l'aura des survivants lorsqu'ils entrent dans un rayon de 8 mètres d'un coffre ouvert ou fermé pendant 3 secondes. \"Avidité humaine\" a un temps de recharge de 80/70/60 secondes pour la capacité de donner un coup de pied dans les coffres.",
+      "img": ""
+    },
+    {
+      "id": 1756743279037,
+      "name": "Domination",
+      "character": "Le Seigneur des Ténèbres - Dracula",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Le pouvoir que vous exercez sur la contrée inspire la terreur dans le cœur de tous ceux qui croisent votre chemin. Fait appel à l'Entité pour bloquer chaque totem et chaque coffres pendant 4/6/8 secondes la première fois qu'un survivant les manipule. L'aura des totems et des coffres bloqués vous est révélée en blanc.",
+      "img": ""
+    },
+    {
+      "id": 1756743395593,
+      "name": "Sort: Destin misérable",
+      "character": "Le Seigneur des Ténèbres - Dracula",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous voyez votre victime de loin et décidez de prolonger sa souffrance.\nLorsqu'un générateur est complété, \"Sort: Destin misérable\" s'active et un totem passif  aléatoire devient un totem ensorcelé et maudit l'obsession. Réduit sa vitesse de réparation de 27/30/33 %. L'aura du totem ensorcelé lui est révélée lorsqu’elle se trouve à moins de 12 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1756743579356,
+      "name": "Coup de tonnerre",
+      "character": "La Maîtresse des Molosses - The Houndmaster",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Les ennemis sur terre et en mer ont appris à trembler devant votre puissance.\nLorsque vous tombez de haut, \"Coup de tonnerre\" s'active pendant 8/12/16 secondes. Augmente la distance de votre attaque plongée de 75%. \"Coup de tonnerre\" a un temps de recharge de 5 seconds.",
+      "img": ""
+    },
+    {
+      "id": 1756743731200,
+      "name": "Crochet flagellateur: Boussole de douleur",
+      "character": "La Maîtresse des Molosses - The Houndmaster",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Parfois, la boussole indique le Nord. En d'autres occasions, elle indique un tout autre point. Au début de l'épreuve, 4 crochets aléatoires deviennent des crochets flagellateurs. L'aura des crochets flagellateurs vous est révélée en blanc. Lorsqu'un survivant est décroché d'un crochet, l'effet suivant s'applique. Le crochet devient un crochet flagellateur. Lorsque vous suspendez un survivant à un crochet flagellateur, l'effet suivant s'applique. L'Aura du générateur ayant le plus progressé est révélée en jaune pendant 6/8/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756743819912,
+      "name": "Pas de quartier",
+      "character": "La Maîtresse des Molosses - The Houndmaster",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Chaque accrochage s'achevait par des rafales impitoyables au canon pour bien montrer qui dominait. Lorsqu'un Survivant atteint 75% de progression en se soignant, \"Pas de quartier\" déclenche ses effets. Le survivant est bombardé de tests d'habileté continus jusqu'à ce que l'auto-guérison soit terminée. Si l'un de ces tests d'habileté est raté, ou que les soins sont interrompus, le survivant souffre de l'effet de statut brisé pendant 20/25/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756823481449,
+      "name": "Sort: Que du malheur",
+      "character": "La Goule - Ken Kaneki",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous avez été poussé au plus profond de la douleur, et vous êtes maintenant prêt à infliger cette douleur aux autres. Après avoir blessé 8 fois les survivants avec des attaques de base, un totem passif aléatoire se transforme en totem ensorcelé, maudissant tous les survivants. Les survivants blessés par une attaque de base subissent un effet de statut de 5% d'entrave pendant 10/12,5/15 secondes. Les effets du sort persistent tant que le totem ensorcelé est en place.",
+      "img": ""
+    },
+    {
+      "id": 1756823740695,
+      "name": "À jamais liés",
+      "character": "La Goule - Ken Kaneki",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "À chaque fois qu'un survivant est blessé, \"A jamais liés\" gagne 1 jeton, jusqu'à un maximum de 6/7/8 jetons Augmente la vitesse d'action pour déposer, accrocher et ramasser un survivant d'un montant cumulable de 4% par jeton, jusqu'à un maximum de 24/28/32%.",
+      "img": ""
+    },
+    {
+      "id": 1756824103635,
+      "name": "Personne n'est libre",
+      "character": "La Goule - Ken Kaneki",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous savez mieux que quiconque que la lumière au bout du tunnel n'est qu'une illusion. Chaque fois que vous accrochez un survivant pour la première fois, \"Personne n'est libre\" gagne 1 jeton, jusqu'à un maximum de 4 jetons. Une fois tous les générateurs terminés, sonne n'est libre\" fait appel à l'Entité pour déclencher l'effet suivant. Bloque toutes les fenêtres et palettes debout pendant 12/14/16 secondes cumulables par jeton, jusqu'à un maximum de 48/56/64 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756824333682,
+      "name": "On embauche",
+      "character": "L'Animatronique -The Animatronic - Springtrap",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Malgré tous vos efforts, vous savez garder une longueur d'avance sur vos invités. Après avoir effectuer l'action endommager le générateur sur un générateur, \"On embauche\" s'active. Ce générateur devient un générateur compromis. Une fois le générateur compromis terminé, vous bénéficiez d'une augmentation à la vitesse de récupération des attaques de base réussies de 25% pendant 40/50/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756824593391,
+      "name": "Frayeur fantôme",
+      "character": "L'Animatronique -The Animatronic - Springtrap",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Vous avez toujours eu la réputation de surprendre les invités sans méfiance. Lorsqu'un survivant dans votre rayon de terreur vous regarde, il subit les effets suivants Il hurle et révèle son aura pendant 2 secondes. \"Frayeur fantôme\" a un temps de recharge de 80/70/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756824895098,
+      "name": "Détraqué",
+      "character": "L'Animatronique -The Animatronic - Springtrap",
+      "category": "Killer",
+      "isCommun": false,
+      "desc": "Lorsqu'un survivant cesse d'ouvrir une porte de sortie après avoir accumulé au moins 80 % de progression sur l'interrupteur, \"Détraqué\" s'active. La vitesse de régression de la progression de l'interrupteur de se fait à une vitesse de 80/90/100 %. Les survivants voient les lumières au-dessus de l'interrupteur clignoter aléatoirement pendant la régression.",
+      "img": ""
+    },
+    {
+      "id": 1756850345363,
+      "name": "Fais tes preuves",
+      "character": "Dwight Fairfield",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Augmente la vitesse de réparation de 10% pour chaque survivant dans un rayon de 4 mètres autour de vous, jusqu'à un maximum de 30%. Cet effet s'applique également à tous les autres survivants dans cette portée. \"Fais tes preuves\" ne se cumule pas avec d'autres exemplaires de lui-même.",
+      "img": ""
+    },
+    {
+      "id": 1756850393578,
+      "name": "Lien",
+      "character": "Dwight Fairfield",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. L'auras des autres survivants vous est révélée quand ils se trouvent dans un rayon de 20/28/36 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1756850474527,
+      "name": "Meneur",
+      "character": "Dwight Fairfield",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes capable d'organiser une équipe pour qu'elle coopère plus efficacement. Quand les autres survivants se situent dans un rayon de 8 mètres autour de vous, \"Meneur\" augmente leurs vitesses d'action de soins, de sabotage, de décrochage, de purification, d'ouverture des portes de sortie, et de déverrouillage de coffres de 15/20/25%. Cet effet persiste pendant 15 secondes en quittant la portée effective de \"Meneur\".",
+      "img": ""
+    },
+    {
+      "id": 1756850590847,
+      "name": "Adrénaline",
+      "character": "Meg Thomas",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Alors que vous êtes sur le point de vous échapper, vous vous sentez insufflé d'une énergie nouvelle. Quand les portes de sortie sont alimentées, vous vous soignez instantanément d'un état de santé et courez à 150% de votre vitesse normale pendant 3 secondes. \"Adrénaline\" ignore tout compte à rebours d'épuisement existant, mais inflige l'effet de statut épuisement pendant 60/50/40 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756850667624,
+      "name": "Course effrénée",
+      "character": "Meg Thomas",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Quand vous commencez à courir, vous sprintez à 150 % de votre vitesse normale pendant un maximum de 3 secondes. \"Course effrénée\" inflige l'effet de statut épuisement pendant 60/50/40 secondes. \"Course effrénée\" ne peut être utilisé en étant d'épuisement.",
+      "img": ""
+    },
+    {
+      "id": 1756850739023,
+      "name": "Rapide et silencieux",
+      "character": "Meg Thomas",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous faites moins de bruit que les autres en sautant par-dessus les obstacles ou en vous cachant dans des casiers. Les forts bruits d'alerte déclenchés en sautant précipitamment par-dessus des fenêtres et des palettes, ou en entrant ou en quittant des casiers sont complètement supprimés. \"Rapide et silencieux\" a un délai de récupération de 30/25/20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756850880691,
+      "name": "Auto-traitement",
+      "character": "Claudette Morel",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque la capacité d'auto-soins, vous permettant de vous soigner seul sans trousse de soins à 25/30/35% de la vitesse de soins normale.",
+      "img": ""
+    },
+    {
+      "id": 1756850958335,
+      "name": "Connaissances en botanique",
+      "character": "Claudette Morel",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous transformez les plantes bordant Le feu de camp en teintures qui réduisent les hémorragies. Augmente votre vitesse de soins de 30/40/50% mais réduit l'efficacité de soins des trousses de soins de 20%.",
+      "img": ""
+    },
+    {
+      "id": 1756851008905,
+      "name": "Empathie",
+      "character": "Claudette Morel",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Augmente votre vitesse de soins de 64/96/128 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1756851160974,
+      "name": "Esprit calme",
+      "character": "Jake Park",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Les animaux semblent vous faire confiance, car ils ne sont que rarement effrayés par votre présence. Empêche les corbeaux d'être alertés de votre présence et de s'envoler, à moins de leur marcher dessus. Supprime l'envie de crier de toutes les sources de douleur ou d'affliction. Supprime tous les bruits liés au déverrouillage de coffres, et à la purification ou la bénédiction de totems. Réduit la vitesse de ces interactions de 40/35/30%.",
+      "img": ""
+    },
+    {
+      "id": 1756851261455,
+      "name": "Saboteur",
+      "character": "Jake Park",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Tant que le tueur transporte un survivant sur son épaule, vous voyez l'aura de tous les crochets dans un rayon de 56 mètres autour de la zone où il a été ramassé. L'aura des crochets standards vous est révélée en blanc. L'aura des crochets flagellateurs vous est révélée en jaune. Débloque la capacité de saboter des crochets sans boîte à outils. saboter un crochet sans boîte à outils prend 2,5 secondes. L'action de sabotage a un délai de récupération de 70/65/60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756851325902,
+      "name": "Volonté de fer",
+      "character": "Jake Park",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes capable de vous concentrer pour entrer dans un état méditatif qui vous fait oublier la douleur. Réduit le volume de vos gémissements de douleur en état blessé de 80/90/100 %. \"Volonté de fer\" ne peut pas être utilisé en souffrant d'épuisement, mais n'inflige pas l'effet de statut épuisement.",
+      "img": ""
+    },
+    {
+      "id": 1756851584661,
+      "name": "Atterrissage équilibré",
+      "character": "Nea Karlsson",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre agilité est incomparable. Lorsque vous tombez de haut, vous bénéficiez des effets suivants. Réduit la durée de chancèlement de 75%. Supprime les gémissements d'effort en tombant. À l'atterrissage, vous courez à 150% de votre vitesse normale pendant un maximum de 3 secondes. \"Atterrissage équilibré\" inflige l'effet de statut épuisement pendant 60/50/40 secondes. \"Atterrissage équilibré\" ne peut pas être utilisé en étant épuisement.",
+      "img": ""
+    },
+    {
+      "id": 1756851645466,
+      "name": "Débrouillardise",
+      "character": "Nea Karlsson",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Tous les objets chargés que vous récupérez dans les coffres bénéficient d'une augmentions de leurs charges de façon permanente de 60/70/80%. Lorsque votre objet actuellement équipé est épuisé pour la première fois, \"Débrouillardise\" s'active. L'aura du tueur vous est révélée pendant 8 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756851800232,
+      "name": "Évasion urbaine",
+      "character": "Nea Karlsson",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Des années passées à éviter la police vous ont appris pas mal de trucs en matière de furtivité. Votre vitesse de mouvement en position accroupie augmente de 90/95/100%.",
+      "img": ""
+    },
+    {
+      "id": 1756852195404,
+      "name": "Coup décisif (DS)",
+      "character": "Laurie Strode",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous poignardez votre agresseur pour tenter de vous échapper.\nAprès avoir été libéré du Crochet ou l'avoir fait vous-même, \"Coup décisif\" s'active durant 40/50/60 secondes. Si le tueur vous empoigne ou vous ramasse, réussir un test d'habileté vous libèrera automatiquement de sa poigne. Étourdit le tueur pendant 4 secondes. Vous deviendrez ainsi la prochaine obsession. \"Coup décisif\" est désactivé une fois les portes de sortie\nalimentées. \"Coup décisif\" est désactivé pour le reste de lépreuve après utilisation. Accomplir toute action perceptible désactivera \"Coup décisif\". Augmente les chances de devenir l'obsession du tueur de 100%. Le tueur ne peut être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756852335543,
+      "name": "Objet d'obsession",
+      "character": "Laurie Strode",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Un lien surnaturel vous unit au tueur. À chaque fois que le tueur voit votre aura, \"Objet d'obsession\" s'active pour la même durée que son action de lecture d'aura. Révèle l'aura du tueur. Augmente vos vitesses d'action pour réparer, soigner, et purifier des totems de 2/4/6%. Lorsque vous êtes l'obsession, votre aura est automatiquement révélée au tueur pendant 3 secondes toutes les 30 secondes. Augmente les chances de devenir l'obsession du Tueur de 100%. Le tueur ne peut être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756852673006,
+      "name": "Unique survivant",
+      "character": "Laurie Strode",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Tandis que vos compagnons succombent au tueur les uns après les autres, vous vous isolez de plus en plus, ce qui vous dissimule et perturbe les capacités de repérage d'auras du tueur. À chaque fois qu'un survivant autre que vous est tué ou sacrifié, \"Unique survivant\" gagne 1 jeton, jusqu'à un maximum de 3 jetons. Accorde un rayon cumulable de 20/22/24 mètres par jeton autour de vous, jusqu'à un maximum de 60/66/72 mètres, au sein duquel vous êtes immunisé aux capacités de lecture d'aura du tueur. Une fois que vous êtes le dernier survivant encore en vie, vous bénéficiez des effets suivants. Augmente votre vitesse de réparation de 75 %. Augmente vos vitesses d'ouverture des portes de sortie et de la trappe de 50 %. Augmente les chances de devenir l'obsession du tueur de 100 %. Le tueur ne peut être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756918191756,
+      "name": "Atout dans la manche",
+      "character": "Ace Visconti",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Dame Fortune semble vous choyer en permanence. Quand vous trouvez un objet dans un coffre, il y a des chances qu'un accessoire y soit attaché. 100% de chances d'un accessoire de rareté très rare ou inférieure. 10/25/50% de chances de trouver un deuxième accessoire de rareté peu commune ou inférieure. \"Atout dans la manche\" vous permet de garder les accessoires équipés sur votre objet en vous échappant.",
+      "img": ""
+    },
+    {
+      "id": 1756918301024,
+      "name": "Augmenter la mise",
+      "character": "Ace Visconti",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Tout se terminera bien, vous le sentez. Votre confiance en vous ravive l'espoir de ceux qui se trouvent autour de vous. Pour chaque survivant encore en vie, \"Augmenter la mise\" gagne 1 jeton. Chaque jeton applique un bonus de chance cumulable de 1/2/3% à tous les survivants, jusqu'à un maximum de 3/6/9%.",
+      "img": ""
+    },
+    {
+      "id": 1756918558786,
+      "name": "Le Cœur sur la main",
+      "character": "Ace Visconti",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Renforce vos capacités de repérage d'auras et celles de votre équipe.\nÉtend la portée de toutes les capacités de lecture d'aura des survivants de 8/12/16 mètres. \"Cœur sur la main\" ne se cumule pas avec d'autres exemplaires de lui-même.",
+      "img": ""
+    },
+    {
+      "id": 1756918684778,
+      "name": "Abandonné",
+      "character": "Bill Overbeck",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Le boulot sera fait... quel qu'en soit le prix. Lorsque vous êtes le dernier survivant restant de la partie, l'aura de la trappe vous est révélée lorsque vous vous trouvez à 24/28/32 mètres de celle-ci.",
+      "img": ""
+    },
+    {
+      "id": 1756918726687,
+      "name": "Indéfectible",
+      "character": "Bill Overbeck",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre expérience du combat vous a appris quelques précieuses leçons sur comment survivre. Une fois par partie, vous avez la capacité de récupérer complètement de l'état critique. Votre Vitesse de récupération est augmentée de façon permanente de 25/30/35%.",
+      "img": ""
+    },
+    {
+      "id": 1756918782254,
+      "name": "Sursis",
+      "character": "Bill Overbeck",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Une énergie insoupçonnée vous remplit en sauvant un allié d'un crochet.\nLes survivants que vous décrochez bénéficient des effets suivants. Étend la durée de leur effet de statut endurance de 6/8/10 secondes. Étend la durée de leur effet de statut rapidité de 10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756918877211,
+      "name": "Souple",
+      "character": "Feng Min",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Après avoir effectué un saut précipité par-dessus un obstacle, vous courez à 150% de votre vitesse normale pendant un maximum de 3 secondes. \"Souple\" inflige l'effet de statut épuisement pendant 60/50/40 secondes. \"Souple\" ne peut pas être utilisé en étant épuisement.",
+      "img": ""
+    },
+    {
+      "id": 1756919198095,
+      "name": "Technicien",
+      "character": "Feng Min",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes capable de manier des machines avec beaucoup de précautions et la plus grande précision. En réparant un générateur, les effets suivants s'appliquent Réduit la distance à laquelle les bruits causés par la réparation de générateur sont perçus de 8 mètres. Supprime l'explosion et le fort bruit d'alerte associé en ratant un test d'habileté. Rater un test d'habileté fait instantanément régresser le générateur de 5/4/3% de sa progression maximum possible, en plus de la pénalité de progression de base.",
+      "img": ""
+    },
+    {
+      "id": 1756919244667,
+      "name": "Vigilant",
+      "character": "Feng Min",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vos sens aiguisés sont en alerte. Lorsque le tueur détruit une palette ou un mur destructible, ou endommage un générateur, son aura vous est révélée pendant 3/4/5 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756919453409,
+      "name": "Dur à cuire (Dead hard)",
+      "character": "David King",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes plus solide que vous ne le pensez. \"Dur à cuire\" s'active après avoir été décroché ou s'être décroché soi-même. Lorsque vous êtes blessé, vous puisez dans vos réserves d'adrénaline pour éviter les dégâts. Appuyez sur la Touche de capacité active en courant pour déclencher l'effet de statut endurance pendant 0.5 seconde.\"Dur à cuire\" se désactive par la suite \net inflige l'effet de statut épuisement pendant 60/50/40 secondes. \"Dur à cuire\" ne peut pas être utilisé en étant épuisement.",
+      "img": ""
+    },
+    {
+      "id": 1756919601605,
+      "name": "Même Pas mal",
+      "character": "David King",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Aller, mon garçon, c'est juste une égratignure. Votre sang épais coagule presque instantanément. Vous souffrez de l'effet de statut brisé pendant toute la durée de la partie. Vous ne laissez aucune traces d'éraflures. Lorsque vous êtes blessé, les bruits causés par vos gémissements de douleur sont réduits de 25/50/75%. Votre vitesse de récupération est augmentée de 15/20/25%. Vous pouvez complètement récupérer d'un état critique.",
+      "img": ""
+    },
+    {
+      "id": 1756919785758,
+      "name": "Nous vivrons éternellement",
+      "character": "David King",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Le peu d'amis que vous avez méritent la meilleure protection possible.\nLorsque vous soignez un autre survivant en état critique, votre Vitesse de Soins est augmentée de 100%. En effectuant l'une des actions suivantes, \"Nous vivrons éternellement\" gagne 1 jeton. Effectuer un décrochage sécuritaire. Prendre un coup de protection pour un survivant blessé\nétourdir ou aveugler le tueur pour secourir un survivant transporté consomme 1 jeton pour accorder l'effet de statut endurance pendant 6/8/10 secondes à tout survivant soigné d'un état critique.",
+      "img": ""
+    },
+    {
+      "id": 1756919938875,
+      "name": "Debout !",
+      "character": "Quentin Smith",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Une fois que tous les générateurs ont été réparés, \"Debout !\" s'active. L'aura des interrupteurs des portes de sortie vous est révélée dans un rayon de 128 mètres. Votre aura est révélée à tous les autres survivants dans un rayon de 128 mètres de votre position en ouvrant une porte de sortie. Augmente votre vitesse d'ouverture des portes de sortie de 15/20/25%.",
+      "img": ""
+    },
+    {
+      "id": 1756920040056,
+      "name": "Pharmacie",
+      "character": "Quentin Smith",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez un don pour trouver des médicaments. Dès que vous êtes en état blessé, \"Pharmacie\" s'active. Augmente la vitesse de déverrouillage des coffres de 40/60/80%. Réduit la portée des bruits liés au déverrouillage de 8 mètres. Garantit de trouver une trousse de soins d'urgence en déverrouillant un coffre.",
+      "img": ""
+    },
+    {
+      "id": 1756920118989,
+      "name": "Veillée",
+      "character": "Quentin Smith",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous veillez sur vos amis même dans les situations les plus rudes. Vous récupérez 20/25/30% plus rapidement des Effets de Statut Effets de Statut Aveuglement, brisé, épuisement, à découvert, hémorragie, entrave, et inconscient. Cet effet s'applique également à tous les survivants dans un rayon de 8 mètres autour de vous et persiste pendant 15 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756920296098,
+      "name": "En planque",
+      "character": "Inspecteur Tapp",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre détermination augmente quand vous vous rapprochez du tueur.\nÀ chaque fois que vous passez 15 secondes dans le rayon de terreur du tueur sans être poursuivi, \"En planque\" gagne 1 jeton, jusqu'à un maximum de 2/3/4 jetons. Quand \"En planque\" possède au moins 1 jeton, les bons tests d'habileté consomment 1 jeton et sont considérés comme des excellents tests d'habileté, accordant une progression de réparation supplémentaire de 1 %. Les excellents tests d'habileté ne consomment pas de jeton.",
+      "img": ""
+    },
+    {
+      "id": 1756920381866,
+      "name": "Intuition de l'inspecteur",
+      "character": "Inspecteur Tapp",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Chaque fois qu'un générateur est complètement réparé, l'aura de tout générateur, coffre, et totem dans un rayon de 32/48/64 mètres vous est révélée pendant 10 secondes. Si vous tenez une carte, tous les objets révélés par \"Intuition de l'inspecteur\" sont automatiquement ajoutés à celle-ci.",
+      "img": ""
+    },
+    {
+      "id": 1756920436701,
+      "name": "Ténacité",
+      "character": "Inspecteur Tapp",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Rien ne vous arrête. Votre incroyable ténacité dans les moments difficile vous permet de bénéficier des effets suivants. Augmente votre vitesse en rampant de 30/40/50%. Octroie la capacité de ramper tout en récupérant simultanément. Réduit le volume des gémissements de douleur lors de l'état critique de 75%.",
+      "img": ""
+    },
+    {
+      "id": 1756920606217,
+      "name": "Danse avec moi",
+      "character": "Kate Denson",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "En effectuant une action précipitée en passant à travers une fenêtre, en passant par-dessus une palette ou en quittant un casier, vous ne laissez aucune marques d'éraflures pendant les 3 prochaines secondes. \"Danse avec moi\" a un délai de récupération de 30/25/20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756920694615,
+      "name": "Effusion",
+      "character": "Kate Denson",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes un battant et faites votre possible pour vous sortir des griffes du tueur. Lorsque vous vous faites porter par le tueur, les effets suivants s'appliquent. L'intensité de vos effets de gigotement pour le tueur lorsque vous vous débattez est augmentée de 60/70/80%. Vous obscurcissez la capacité du tueur à voir l'aura de tous les crochets dans un rayon de 16 mètres. Remplit votre jauge de gigotement de 33% de votre progression de gigotement actuelle à l'atterrissage lorsque le tueur tombe de haut.",
+      "img": ""
+    },
+    {
+      "id": 1756920739577,
+      "name": "Parfaite occasion",
+      "character": "Kate Denson",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. L'aura des murs destructibles, des palettes, et des fenêtres vous est révélée dans un rayon de 24/28/32 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1756920962765,
+      "name": "Autodidacte",
+      "character": "Adam Francis",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Réussir un test d'habileté en soignant un autre survivant octroie 1 jeton, jusqu'à un maximum de 3/4/5 jetons. Supprime les tests d'habileté excellents. Provoque des bons tests d'habileté de soin qui accordent une progression de guérison en fonction du nombre de jetons accumulés. 0 jeton -15%. 1 jeton 0%. 2 jetons 15%. 3 jetons 30% (limite du Niveau I). 4 jetons 45% (limite du Niveau II). 5 jetons 60% (limite du Niveau III). \"Autodidacte\" n'est pas actif lorsque vous utilisez une trousse de soins.",
+      "img": ""
+    },
+    {
+      "id": 1756921135008,
+      "name": "Diversion",
+      "character": "Adam Francis",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Après être resté dans le rayon de terreur du tueur pendant 30/25/20 secondes sans avoir été poursuivi, \"Diversion\" s'active. Appuyez sur la touche de capacité active en étant accroupi et immobile pour lancer un caillou, créant une distraction pour le Tueur à une distance de 20 mètres de votre position. La distraction provoque les effets suivants. Déclenche un fort bruit d'alerte. Crée de fausses marques d'éraflure \"Diversion\" se désactive après utilisation et réinitialise son compte à rebours.",
+      "img": ""
+    },
+    {
+      "id": 1756921199733,
+      "name": "Libération",
+      "character": "Adam Francis",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Après avoir effectué un décrochage sécuritaire sur un autre survivant, \"Libération\" s'active. Vos chances de vous décrocher vous-même durant votre premier crochet ont 100% de réussite. Inflige l'effet de statut brisé pendant 100/80/60 secondes après s'être décroché.",
+      "img": ""
+    },
+    {
+      "id": 1756921434392,
+      "name": "Distorsion",
+      "character": "Jeff Johansen",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Commencez la partie avec 1 jeton. Lorsque votre aura devrait être révélée au tueur, \"Distorsion\" s'active et consume 1 jeton, en appliquant les effets suivants pendant 8/10/12 secondes. Bloque la lecture de votre aura. Supprime la création de vos marques d'éraflure. Toutes les 30 secondes passées dans une poursuite, \"Distorsion\" se recharge et vous regagnez 1 jeton, pour un maximum de 2 jetons. \"Distorsion\" ne peut pas se déclencher lorsque vous êtes en état critique.",
+      "img": ""
+    },
+    {
+      "id": 1756921679222,
+      "name": "Effondrement",
+      "character": "Jeff Johansen",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Chaque fois que vous êtes libéré d'un Crochet (en vous échappant ou en étant secouru), le crochet se brise et l'aura du tueur vous est révélée pendant 4/5/6 secondes. Un crochet brisé par \"Effondrement\" met 180 secondes à réapparaître.",
+      "img": ""
+    },
+    {
+      "id": 1756922811671,
+      "name": "Suivi des Soins",
+      "character": "Jeff Johansen",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Vous voyez l'aura du/des dernier(s) 1/2/3 que vous avez sauvé d'un crochet, ou qui vont a/ont sauvé d'un crochet. Vous avez complètement soigné, ou qui vous a/ont complètement soigné. Il(s) voi(en)t aussi votre aura. Tous les effets de suivi des soins sont réinitialisés après avoir été suspendu à un crochet par le tueur.",
+      "img": ""
+    },
+    {
+      "id": 1756987793128,
+      "name": "Assurance",
+      "character": "Jane Romero",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Atteindre des objectifs renforce votre confiance. Après qu'un générateur est complètement réparé, vous ne laissez aucune trace d'éraflure pendant 6/8/10 secondes. Commencer à réparer un générateur vous révèle l'aura du tueur pendant 6 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756988161070,
+      "name": "De front",
+      "character": "Jane Romero",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Une fois votre décision prise, mieux vaut ne rencontrer personne. Après vous être caché dans un casier pendant 3 secondes, \"De front\" s'active. Effectuer une sortie précipitée du casier étourdit le tueur proche pendant 3 secondes. \"De front\" provoque l'effet épuisé pendant 60/50/40 secondes. \"De front\" ne peut pas être utilisé en étant épuisement ou en ayant accumulé des Corbeaux d'inactivités.",
+      "img": ""
+    },
+    {
+      "id": 1756988262555,
+      "name": "Solidarité",
+      "character": "Jane Romero",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Partager des expériences douloureuses a un pouvoir curatif. Quand vous êtes blessé, soigner un autre survivant sans utiliser de trousse de soins vous soigne également à un taux de conversion de 50/60/70%.",
+      "img": ""
+    },
+    {
+      "id": 1756988448646,
+      "name": "Accrochez-vous",
+      "character": "Ash Williams",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Débloque une capacité de repérage d'auras. Quand vous soignez un survivant en état critique, \"Accrochez-vous\" s'active. Vous voyez tous les deux l'aura du tueur. Terminer une action de soin sur le survivant en état critique lui accorde 50% de rapidité pendant 3/4/5 secondes. \"Accrochez-vous\" ne provoque pas épuisement.",
+      "img": ""
+    },
+    {
+      "id": 1756988581296,
+      "name": "Force de caractère",
+      "character": "Ash Williams",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Le mal parvient toujours à vous trouver. Après avoir encaissé trois coups de protection, \"Force de caractère\" s'active. En étant blessé, \"Force de caractère\" vous protège de tout dégât qui vous mettrait à terre la prochaine fois que vous en prenez. Vous soigner jusqu'à l'état en forme révèlera votre aura au tueur à chaque fois que vous vous trouvez à plus de 12/14/16 mètres de lui.\n\"Force de caractère\" se désactive la prochaine fois que vous entrez en état critique. Augmente les chances de devenir l'obsession du tueur de 100 %. Le tueur ne peut être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756988652529,
+      "name": "À la revoyure",
+      "character": "Ash Williams",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous possédez la capacité improbable d'échapper à l'inévitable. Lorsque vous êtes en état critique, 50% de votre progression de récupération est convertie en progression de gigotement, jusqu'à un maximum de 40/45/50%, une fois que le tueur vous ramasse.",
+      "img": ""
+    },
+    {
+      "id": 1756988779851,
+      "name": "Force intérieure",
+      "character": "Nancy Wheeler",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous vous concentrez sur vous-même et faites confiance à votre instinct quand vous vous sentez seul et perdu. Chaque fois que vous purifiez un totem, \"Force intérieure\" s'active. Vous vous soignez automatiquement d'un état de santé quand vous vous cachez dans un casier pendant 10/9/8 secondes, lorsque vous êtes blessé ou que vous souffrez de l'effet de statut blessure profonde. \"Force intérieure\" ne s'active pas si vous souffrez déjà de l'effet de statut brisé.",
+      "img": ""
+    },
+    {
+      "id": 1756988836434,
+      "name": "Mieux ensemble",
+      "character": "Nancy Wheeler",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous cherchez la justice et la vérité sans tenir compte des obstacles.\nEn réparant un générateur, son aura est révélée en jaune pour tous les autres survivants situés à moins de 32 mètres. Si le tueur met à terre un survivant pendant que vous réparez un générateur, vous voyez l'aura de tous les autres survivants pendant 8/9/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756988880833,
+      "name": "Obnubilé",
+      "character": "Nancy Wheeler",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Quand vous avez un objectif en tête, vous n'y renoncez pas ; mieux vaut demander pardon que la permission. Vous marchez 10/15/20% plus vite et vous pouvez voir vos marques d'éraflure.",
+      "img": ""
+    },
+    {
+      "id": 1756989033203,
+      "name": "Baby-sitter",
+      "character": "Steve Harrington",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Bien que vous ayez la réputation d'être égocentrique, vous risquez tout pour aider ceux dans le besoin. Quand vous sauvez un survivant d'un crochet, le survivant secouru bénéficie des effets suivants pendant 20/25/30 secondes. Ses marques d'éraflure et ses flaques de sang sont supprimées. Un effet de statut rapidité de 10% supplémentaires, boostant sa vitesse de mouvement.\n\"Baby-sitter\" vous révèle l'aura du tueur pendant 8 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756989100984,
+      "name": "Camaraderie",
+      "character": "Steve Harrington",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "La vie vous a appris l'importance de l'amitié ce qui vous a rendu plus fort.\nTant que vous êtes sur un crochet pendant la phase de lutte, \"Camaraderie\" s'active. Si un autre survivant se tient dans les 16 mètres du crochet tant que \"Camaraderie\" est actif, le compte à rebours de la phase de lutte est mis en pause pendant 26/30/34 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756989286767,
+      "name": "Second souffle",
+      "character": "Steve Harrington",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez appris à éviter des situations maladroites avec vos parents.\nUne partie de vous pense encore que votre meilleure option est de vous enfuir et espère que les choses iront mieux d'elles-mêmes. Quand vous soignez un survivant pour l'équivalent d'un état de santé, \"Second souffle\" s'active. La prochaine fois que vous vous libérez d'un crochet ou qu'on vous en libère, vous souffrez de l'effet de statut brisé jusqu'à ce que \"Second souffle\" se désactive. Vous êtes automatiquement soigné d'un état de santé après 28/24/20 secondes. Quand \"Second souffle\" est actif, les conditions suivantes le désactiveront. Avoir été soigné avec succès par \"Second souffle\".\nAvoir été plongé en état critique avant que le compte à rebours n'ait expiré.\n\"Second souffle\" ne s'active pas si vous souffrez déjà de l'effet de statut brisé.",
+      "img": ""
+    },
+    {
+      "id": 1756989428013,
+      "name": "Coup de chance",
+      "character": "Yui Kimura",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez encaissé votre lot de coups et de bleus, mais la chance a toujours été de votre côté. Lorsque vous vous trouvez en état blessé, \"Coup de chance\" s'active. Supprime vos flaques de sang et vos marques d'éraflure pendant un maximum de 40/50/60 secondes, après quoi \"Coup de chance\" se désactive. Chaque seconde passée à soigner d'autres survivants recharge \"Coup de chance\" de 1 seconde jusqu'à la durée maximale de l'effet. \"Coup de chance\" se désactive lorsque vous êtes en forme ou en état critique.",
+      "img": ""
+    },
+    {
+      "id": 1756989490720,
+      "name": "Par tous les moyens",
+      "character": "Yui Kimura",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous vous battez pour vous-même, utilisant tout ce qui vous passe sous la main pour avoir l'avantage. Appuyez et maintenez la touche de capacité active pendant 6/5/4 secondes en vous tenant à côté d'une palette lâchée pour la réinitialiser en position verticale. Octroie la capacité à voir l'aura de toutes les palettes lâchées mais pas encore détruites de l'environnement.",
+      "img": ""
+    },
+    {
+      "id": 1756989596886,
+      "name": "Évasion",
+      "character": "Yui Kimura",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Quand quelqu'un a des problèmes, vous vous donnez à fond et vous poussez les autres à surmonter les obstacles. Lorsque vous vous situez à 6 mètres d'un survivant transporté, les effets suivants s'appliquent. Octroie 5/6/7% de rapidité. Augmente la vitesse de gigotement du survivant transporté de 20%.\n\"Évasion\" ne se cumule pas avec d'autres exemplaires de lui-même.",
+      "img": ""
+    },
+    {
+      "id": 1756989815391,
+      "name": "Confidentiel",
+      "character": "Zarina Kassir",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez appris qu'une approche discrète est parfois la meilleure option.\nAprès que vous vous êtes ou qu'on vous ait libéré d'un crochet, \"Confidentiel\" s'active pendant 60/70/80 secondes. Empêche votre aura d'être révélée au tueur, s'il tente de la lire. Supprime les gémissements de douleur en étant blessé. Octroie l'effet de statut endurance. Cet effet est prématurément annulé si vous effectuez une action perceptible. \"Confidentiel\" est désactivé une fois les portes de sortie alimentées.",
+      "img": ""
+    },
+    {
+      "id": 1756989890568,
+      "name": "Leurre",
+      "character": "Zarina Kassir",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez remarqué que les gens font attention à ce qui fait le plus de bruit.\nAprès avoir réparé un générateur pendant au moins 3 secondes, son aura vous est révélée en jaune. Le générateur reste marqué jusqu'à ce qu'il soit entièrement réparé, que vous commenciez à réparer un autre générateur, ou que vous entriez dans un casier. Entrer dans un casier déclenchera un fort bruit d'alerte pour le tueur à l'emplacement du générateur marqué. \"Leurre\" a un délai de récupération de 60/50/40 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756990107384,
+      "name": "Pour le peuple",
+      "character": "Zarina Kassir",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous risquez votre vie et de vous blesser pour les autres. \"Pour le Peuple\" est uniquement actif quand votre santé est pleine. Appuyer sur la touche de capacité active lorsque vous soignez un autre survivant sans trousse de soins pour immédiatement le soigner d'un état de santé. Vous devenez l'obsession. \"Pour le peuple\" inflige l'effet de statut brisé pendant 80/70/60 secondes après l'avoir utilisé. Réduit les chances de devenir l'obsession du tueur de 100 %. Vous ne pouvez être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756990293548,
+      "name": "Alliance refoulée",
+      "character": "Cheryl Mason",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez l'habitude que des forces maléfiques vous poursuivent et vous avez commencé à l'utiliser à votre avantage. Après avoir réparé des générateurs pour un total de 55/50/45 secondes, \"Alliance refoulée\" s'active. Appuyer sur la touche de capacité active fait appel à L'Entité pour bloquer le générateur que vous êtes en train de réparer pendant 30 secondes, après quoi \"Alliance refoulée\" se désactive. L'aura du générateur bloqué est révélée en blanc à tous les survivants. \"Alliance refoulée\" peut uniquement être activée lorsqu'aucun autre survivant ne répare le générateur.",
+      "img": ""
+    },
+    {
+      "id": 1756990388902,
+      "name": "Pacte de sang",
+      "character": "Cheryl Mason",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "C'est comme si une part latente de vous-même s'était réveillée. Vous avez la sensation de pouvoir vous dépasser pour porter secours. Lorsque vous ou l'obsession êtes blessés, vous voyez vos auras respectives. Après avoir soigné l'obsession ou avoir été soigné par l'obsession, vous gagnez tous les deux l'effet de statut rapidité, vous permettant de vous déplacer à une vitesse accrue de 5/6/7% jusqu'à ce que vous soyez à plus de 16 mètres l'un de l'autre. Si vous êtes l'obsession, \"Pacte de sang\" se désactive. Réduit les chances de devenir l'obsession du Tueur de 100 %. Vous ne pouvez être obsédé que par un survivant à la fois.",
+      "img": ""
+    },
+    {
+      "id": 1756990608175,
+      "name": "Protection de l'âme",
+      "character": "Cheryl Mason",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez surmonté d'énormes épreuves, ce qui vous a rendu plus fort.\nAprès vous être relevé vous-même ou avoir été relevé de l'état critique\n, \"Protection de l'âme\" vous accorde l'effet de statut endurance pendant 4/6/8 secondes. Tout dégât reçu qui vous ferait plonger en état critique déclenche à la place l'effet de statut blessure profonde, après quoi vous avez 20 secondes pour vous suturer. Prendre des dégâts sous l'effet de blessure profonde ou si le compte à rebours arrive à expiration vous plongera en état critique. \"Protection de l'âme\" vous permet de récupérer complètement de l'état critique lorsque vous êtes affecté par l'effet de statut malédiction. \"Protection de l'âme\" a un délai de récupération de 30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756990739165,
+      "name": "Conçu pour durer",
+      "character": "Felix Richter",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous savez comment tirer le meilleur de vos outils. Se cacher à l'intérieur d'un casier pendant 14/13/12 secondes en transportant un objet vide lui fera récupérer ses charges jusqu'à 99%. Chaque utilisation de \"Conçu pour durer\" réduit ce pourcentage de 33%.",
+      "img": ""
+    },
+    {
+      "id": 1756990819952,
+      "name": "Mesures désespérées",
+      "character": "Felix Richter",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Même dans vos pires moments, vous refusez d'échouer. Augmente vos vitesses de soins et de décrochage de 10/12/14% pour chaque survivant blessé, sur un crochet, ou en état critique, jusqu'à un maximum de 40/48/56%.",
+      "img": ""
+    },
+    {
+      "id": 1756990935740,
+      "name": "Visionnaire",
+      "character": "Felix Richter",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes incroyablement concentré sur les moyens de vous enfuir.\nL'aura des générateurs vous est révélée dans un rayon de 32 mètres. À chaque fois qu'un générateur est complètement réparé, \"Visionnaire\" est désactivé pendant 20/18/16 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756991048548,
+      "name": "Bras de fer",
+      "character": "Élodie Rakoto",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous n'avez jamais abandonné et vous ne comptez pas commencer aujourd'hui. Révèle l'aura des palettes disponibles lorsque vous vous trouvez en état critique. Quand le tueur vous transporte, atteindre 25/20/15% de progression de gigotement active \"Bras de fer\". Vous pouvez faire tomber une palette debout proche pour étourdir le tueur et vous échapper de son étreinte. \"Bras de fer\" se désactive après l'avoir déclenché avec succès.",
+      "img": ""
+    },
+    {
+      "id": 1756991176588,
+      "name": "Estimation",
+      "character": "Élodie Rakoto",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez l'œil pour remarquer ce que beaucoup négligent. Commencez la partie avec 3 Jetons. Quand un coffre a déjà été ouvert, consommez 1 jeton pour le fouiller à la recherche d'un objet. Votre fouille des coffres est 40/60/80% plus rapide.",
+      "img": ""
+    },
+    {
+      "id": 1756991285430,
+      "name": "Supercherie",
+      "character": "Élodie Rakoto",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre style de vie aventureux vous pousse à donner de mauvaises indications.\nInteragir avec un casier en maintenant la touche de course provoque les effets suivants. Vous n'entrez pas dans le casier. Les portes du casier s'ouvrent brusquement et se referment, feignant l'entrée d'un survivant dans le casier.\nDéclenche un fort bruit d'alerte à l'emplacement du casier, feignant l'entrée précipitée d'un survivant dans le casier. Supprime la création de marques d'éraflure et de flaques de sang pendant 3 secondes. \"Supercherie\" a un délai de récupération de 30/25/20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756991457902,
+      "name": "Instinct de survie",
+      "character": "Yun-Jin Lee",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "La vie ne pardonne rien. Parfois, il vaut mieux se préoccuper de soi-même. À chaque fois qu'un survivant est frappé par une attaque de base ou une attaque spéciale dans un rayon de 16 mètres autour de vous, \"Instinct de survie\" s'active. Les marques d'éraflure, les bruits causés par les gémissements de douleur et les flaques de sang sont supprimés pendant 6/8/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756991529025,
+      "name": "Succès écrasant",
+      "character": "Yun-Jin Lee",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Quand votre rival fait une erreur, vous saisissez votre chance. Après avoir étourdi le tueur avec une palette, vous courez à 150% de votre vitesse normale pendant un maximum de 4 secondes. \"Succès écrasant\" inflige l'effet de statut épuisement pendant 30/25/20 secondes. \"Succès écrasant\" ne peut être utilisé en étant épuisé.",
+      "img": ""
+    },
+    {
+      "id": 1756992079238,
+      "name": "Voie rapide",
+      "character": "Yun-Jin Lee",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Parfois, pour passer en tête, il faut sacrifier les autres. Chaque fois qu'un survivant est suspendu à un crochet, \"Voie rapide\" gagne 1/2/3 jetons, jusqu'à un maximum de 9/18/27 jeton(s). Vous consommez tous vos jetons accumulés après un excellent test d'habileté sur un générateur. Chaque jeton accorde un bonus de Progression cumulable de 1%, en plus de la progression bonus par défaut en réussissant un excellent test d'habileté.",
+      "img": ""
+    },
+    {
+      "id": 1756992539519,
+      "name": "Contre-force",
+      "character": "Jill Valentine",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous savez comment faire face à un ennemi plus fort que vous, et cela commence en pourchassant et en éliminant son soutien. Vous purifiez les totems 20% plus rapidement. Vous gagnez un bonus de vitesse cumulable supplémentaire de 20% pour purifier des totems par totem purifié. Après avoir purifié un totem, l'aura du totem le plus éloigné de vous vous est révélé pendant 2/3/4 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756992877998,
+      "name": "Mine explosive",
+      "character": "Jill Valentine",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Lorsque le combat direct n'est pas une option, vous trouvez toujours un moyen de contre-attaquer. Après avoir réparé des générateurs pour un total de 40%, \"Mine explosive\" s'active. Lorsque vous êtes près d'un générateur, appuyez sur la touche de capacité active pour installer un piège qui reste actif pendant 100/110/120 secondes. L'aura des générateurs piégés est révélée en jaune à tous les survivants. Un générateur ne peut être affecté que par une \"Mine explosive\" en même temps. Lorsque le tueur endommage un générateur piégé, le piège explose, étourdissant et aveuglant quiconque se trouve à proximité. \"Mine explosive\" se désactive après un déclenchement réussi ou si le compte à rebours expire.",
+      "img": ""
+    },
+    {
+      "id": 1756992974813,
+      "name": "Renaissance",
+      "character": "Jill Valentine",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez survécu à des situations quasi impossibles... et vous recommencerez. Après vous être décroché vous-même ou avoir été décroché par un autre survivant, vous obtenez instantanément 50/60/70% à votre progression de soins.",
+      "img": ""
+    },
+    {
+      "id": 1756993112916,
+      "name": "Détermination du bleu",
+      "character": "Leon Scott Kennedy",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous ne perdez pas de vue vos objectifs quand ils vous glissent entre les doigts. En réparant des générateurs, réussir 5/4/3 bons ou excellents tests d'habileté activera \"Détermination du bleu\" pour le reste de la partie. Une fois activé, l'aura de tout générateur en cours de régression vous est révélée.",
+      "img": ""
+    },
+    {
+      "id": 1756993190061,
+      "name": "Grenade aveuglante",
+      "character": "Leon Scott Kennedy",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous vous êtes adapté à un monde en proie au chaos et vous tirez le meilleur parti des débris alentour. Après avoir réparé des générateurs pour un total cumulé de 50/45/40%, \"Grenade aveuglante\" s'active. Entrer dans un casier les mains vides et appuyer sur la touche de capacité active pour fabriquer une grenade aveuglante. La grenade aveuglante n'est pas conservée en s'échappant de la partie.",
+      "img": ""
+    },
+    {
+      "id": 1756993281712,
+      "name": "Serrer les dents",
+      "character": "Leon Scott Kennedy",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous souffrez autant que n'importe qui, mais vous préférez que les autres ne le sachent pas. Pendant les soins, ni vous, ni le survivant que vous soignez ne faites de bruits, pas même de gémissements de douleur. Les tests d'habileté ratés ne déclenchent pas de fort bruit d'alerte et appliquent une pénalité de régression de seulement 3/2/1%.",
+      "img": ""
+    },
+    {
+      "id": 1756993448941,
+      "name": "Bénédiction: Cercle de soins",
+      "character": "Mikaela Reid",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Une Bénédiction qui apporte du réconfort au sein de la terreur. Appuyer et maintenir la touche de capacité active près d'un totem passif ou ensorcelé pour le bénir et créer un totem de bénédiction. De doux tintements résonnent du totem dans un rayon de 24 mètres. Les survivants à l'intérieur du rayon du totem de bénédiction bénéficient des effets suivants. Augmente les vitesses de soins altruistes de 50/75/100% en n'utilisant pas de trousse de soins. Si un survivant est blessé, son aura est révélée à tous les autres survivants. \"Bénédiction : Cercle de soins\" ne se cumule pas avec d'autres exemplaires de lui-même. Un seul totem peut être béni à la fois par vos compétences de bénédiction et tous leurs effets sont actifs sur le même totem de bénédiction.",
+      "img": ""
+    },
+    {
+      "id": 1756993560682,
+      "name": "Bénédiction: Marche de l'ombre",
+      "character": "Mikaela Reid",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Une Bénédiction qui dissimule la vérité. Appuyer et maintenir la touche de capacité active près d'un totem passif ou ensorcelé pour le bénir et créer un totem de bénédiction. De doux tintements résonnent du totem dans un rayon de 24 mètres. Les survivants à l'intérieur du rayon du totem de bénédiction bénéficient des effets suivants. Les marques d'éraflure sont supprimées. Les auras sont dissimulées au tueur. Les deux effets persistent pendant 2/3/4 secondes après avoir quitté la portée du totem de bénédiction. Vous ne pouvez bénir qu'un seul totem à la fois. Toutes les compétences de faveur équipées sont actives sur votre totem de bénédiction.",
+      "img": ""
+    },
+    {
+      "id": 1756993746161,
+      "name": "Clairvoyance",
+      "character": "Mikaela Reid",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Une énergie intrinsèque qui voit au-delà de votre vision. À chaque fois que vous purifiez un Totem, \"Clairvoyance\" s'active. Quand vos mains sont vides, maintenir la touche de capacité active débloque tout votre potentiel de lecture d'aura, vous permettant de voir l'aura des interrupteurs des portes de sorties, des générateurs, des crochets, de la trappe et des coffres dans un rayon de 64 mètres pendant 8/9/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756994072912,
+      "name": "Bénédiction: Exponentiel",
+      "character": "Jonah Vasquez",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Quand c'est votre tour, vous trouvez le moyen de recalculer les probabilités.\nAppuyer et maintenir la Touche de Capacité Active près d'un totem passif ou ensorcelé pour le bénir et créer un totem de bénédiction. De doux tintements résonnent du totem dans un rayon de 24 mètres. Les survivants à l'intérieur du rayon du totem de bénédiction bénéficient des effets suivants. 90/95/100% de vitesse de récupération supplémentaire. Débloque la capacité de récupération complète, permettant de se relever soi-même de l'état critique. Un seul totem peut être béni à la fois par vos compétences de bénédiction et tous leurs effets sont actifs sur le même totem de bénédiction.",
+      "img": ""
+    },
+    {
+      "id": 1756994301390,
+      "name": "Mesure de correction",
+      "character": "Jonah Vasquez",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous analysez rapidement les problèmes et corrigez le travail des autres quand ils commettent des erreurs. Vous commencez la partie avec 1/2/3 jeton(s) et vous gagnez un jeton à chaque fois que vous réussissez un excellent test d'habileté, jusqu'à un maximum de 5 jetons. Quand un survivant rate un test d'habileté alors qu'il coopère avec vous, \"Mesure de correction\" consume 1 jeton et transforme son test d'habileté raté en un bon test d'habileté. \"Mesure de correction\" ne s'applique qu'aux tests d'habileté normaux.",
+      "img": ""
+    },
+    {
+      "id": 1756994393133,
+      "name": "Surmonter",
+      "character": "Jonah Vasquez",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez calculé l'énergie que vous pouvez vous risquer à dépenser. Quand vous subissez une blessure, vous conserver le bonus de vitesse de mouvement pendant 2 secondes supplémentaires. \"Surmonter\" inflige effet de Statut épuisement pendant 60/50/40 secondes. \"Surmonter\" ne peut être utilisé en étant épuisé.",
+      "img": ""
+    },
+    {
+      "id": 1756994524541,
+      "name": "Bénédiction: Théorie ténébreuse",
+      "character": "Yoichi Asakawa",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre étude obsessive du paranormal vous a donné des connaissances inégalées d'autres royaumes et plans d'existence. Appuyer et maintenir la touche de capacité active près d'un totem passif ou ensorcelé pour le bénir et créer un totem de bénédiction. De doux tintements résonnent du totem dans un rayon de 24 mètres. Les survivants à l'intérieur du rayon du totem de bénédiction bénéficient des effets suivants. Effet de statut rapidité de 2%.\nCet effet persiste pendant 2/3/4 secondes après avoir quitté la portée du totem de bénédiction. Un seul totem peut être béni à la fois par vos compétences de bénédiction et tous leurs effets sont actifs sur le même totem de bénédiction.",
+      "img": ""
+    },
+    {
+      "id": 1756994569694,
+      "name": "Connexion empathique",
+      "character": "Yoichi Asakawa",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre présence se projette psychiquement sur ceux qui sont blessés. Dès qu'un survivant est blessé, il peut voir votre aura dans un rayon de 32/64/96 mètres autour de votre position. Vous soignez les autres survivants 30% plus rapidement.",
+      "img": ""
+    },
+    {
+      "id": 1756994642979,
+      "name": "Conseils parentaux",
+      "character": "Yoichi Asakawa",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez hérité la capacité d'entendre les morts — et maintenant les morts vous avertissent d'un danger. Après avoir étourdi le tueur par n'importe quel moyen, \"Conseils parentaux\" dissimule vos marques d'éraflure, vos flaques de sang et vos gémissements de douleur pendant 5/6/7 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756994747847,
+      "name": "Concentration intérieure",
+      "character": "Haddie Kaur",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez affûté votre capacité à percer le voile du ravage. Vous pouvez voir les marques d'éraflure des autres survivants. Quand un autre survivant perd un état de santé à 32 mètres de vous, l'aura du tueur vous est révélée pendant 6/8/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756994829200,
+      "name": "Excès de zèle",
+      "character": "Haddie Kaur",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Riposter contre le Ravage vous motive et vous inspire. Après avoir purifié ou béni un totem, \"Excès de zèle\" s'active. Augmente votre vitesse de réparation de 8/9/10% si c'était un totem passif. Augmente votre vitesse de réparation de 16/18/20% si c'était un totem ensorcelé. \"Excès de zèle\" se désactive en perdant un état de santé par n'importe quel moyen.",
+      "img": ""
+    },
+    {
+      "id": 1756994900405,
+      "name": "Manifeste résiduel",
+      "character": "Haddie Kaur",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Une vie entière passée à chasser les ténèbres vous a appris que le meilleur désinfectant, c'est la lumière. Après avoir réussi à aveugler le tueur, ce dernier souffre de l'effet de statut aveuglement pendant 20/25/30 secondes. \"Manifeste résiduel\" octroie la capacité à pouvoir fouiller dans un coffre déjà ouvert une fois par partie, et garantit d'y trouver une lampe de poche de base.",
+      "img": ""
+    },
+    {
+      "id": 1756994978358,
+      "name": "Guérison réactive",
+      "character": "Ada Wong",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Plus la situation devient compromise, plus votre détermination à mener l'opération à bien grandit. Lorsqu'un autre survivant perd un état de santé dans un rayon de 32 mètres de votre position alors que vous êtes en état blessé, vous bénéficiez de l'effet suivant. Octroie une augmentation instantanée de 40/45/50% de votre progression de soins manquante.",
+      "img": ""
+    },
+    {
+      "id": 1756995090648,
+      "name": "Micro caché",
+      "character": "Ada Wong",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous savez que la meilleure manière de garder un coup d'avance est de surveiller la concurrence. Après avoir réparé des générateurs pour un total de 40%, \"Micro caché\" s'active. Appuyez sur la touche de capacité active pour y installer \"Micro caché\", qui reste actif pendant 100/110/120 secondes.\nL'aura des générateurs piégés est révélée à tous les survivants en jaune.\nLorsque le tueur s'approche à moins de 14 mètres du générateur piégé, son aura est révélée à tous les survivants. Endommager le générateur détruit \"Micro caché\".",
+      "img": ""
+    },
+    {
+      "id": 1756995195391,
+      "name": "Profil bas",
+      "character": "Ada Wong",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous préférez travailler en solo. Quand il n'y a que vous et votre poursuivant, vous savez comment disparaître. À chaque fois que vous êtes le seul survivant de la partie à ne pas être en état critique, suspendu à un crochet, ou déjà mort, \"Profil bas\" s'active. Supprime vos flaques de sang, vos marques d'éraflure, et vos gémissements de douleur pendant 70/80/90 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756995379548,
+      "name": "Ce n'est pas en train d'arriver",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Vous êtes plus performant sous pression. Quand vous êtes blessé, la zone de succès des excellents tests d'habileté en réparant, en soignant, et en sabotant est augmentée de 10/20/30%.",
+      "img": ""
+    },
+    {
+      "id": 1756995491694,
+      "name": "Déjà-bu",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Débloque une capacité de repérage d'auras. La paranoïa, associée à la peur de l'échec, vous aide à ne pas répéter les mêmes erreurs. L'aura des 3 générateurs qui sont actuellement les plus proches les uns des autres vous est révélée de façon permanente. Augmente votre vitesse de réparation sur ces Générateurs de 4/5/6%. Si vous tenez une carte, tous les générateurs révélés par \"Déjà-vu\" y sont automatiquement ajoutés.",
+      "img": ""
+    },
+    {
+      "id": 1756995602732,
+      "name": "Espoir",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Les perspectives d'évasion réussi vous comblent d'espoir et vous donnent des ailes. Une fois que les portes de sortie sont alimentées, \"Espoir\" s'active. Octroie un effet de statut rapidité de 5/6/7% permanent.",
+      "img": ""
+    },
+    {
+      "id": 1756995720019,
+      "name": "Frisson",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Un frisson surnaturel vous avertit d'un danger imminent. À chaque fois que le tueur se trouve à au moins 36 mètres de votre position, \"Frisson\" s'active, allumant son icône. Si un rRayon de terreur est présent, Frisson révèle son intensité en utilisant son icône. Si le tueur est à portée et qu'il a une ligne de vue directe sur vous, vous bénéficiez des effets suivants. Augmente vos vitesses d'action pour réparer, soigner, saboter, décrocher, purifier, bénir, ouvrir les portes de sortie, et déverrouiller des coffres de 2/4/6%. Cet effet persiste pendant 0,5 seconde.",
+      "img": ""
+    },
+    {
+      "id": 1756995782064,
+      "name": "Instinct de pillard",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Débloque une capacité de Repérage d'auras. L'aura des coffres fermés et des objets lâchés au sol vous est révélée dans un rayon de 16/24/32 mètres. Augmente considérablement les chances de trouver un objet de rareté élevée dans les coffres.",
+      "img": ""
+    },
+    {
+      "id": 1756995839705,
+      "name": "Nous y arriverons",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Aider les autres vous remonte le moral. Lorsque vous sauvez un survivant d'un crochet, votre vitesse de soins lorsque vous soignez les autres est augmentée de 100% pendant les 30/60/90 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1756995965145,
+      "name": "On n'abandonne personne",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Il est impensable d'abandonner quelqu'un. Une fois que les portes de sortie\n sont alimentées, \"On n'abandonne personne\" s'active. Augmente votre vitesse de Décrochage et de Soins de 30/40/50%. Octroie 50/75/100% de points de sang bonus pour les actions de la catégorie altruisme. Octroie au survivant survivant décroché un effet de statut rapidité de 7% pendant 10 secondes. L'aura de tous les autres survivants vous est révélée.",
+      "img": ""
+    },
+    {
+      "id": 1756996081993,
+      "name": "Parenté",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Débloque une capacité de repérage d'auras. Quand vous êtes suspendu à un crochet, l'aura de tous les survivants est révélée à tous les survivants. Lorsque le tueur se trouve dans un rayon 8/12/16 mètres autour du crochet, son aura est révélée à tous les survivants. Quand un autre survivant est suspendu à un crochet l'aura de tous les autres survivants vous est révélée. Lorsque le tueur se trouve dans un rayon 8/12/16 mètres autour du survivant accroché, son aura vous est révélée.",
+      "img": ""
+    },
+    {
+      "id": 1756996174864,
+      "name": "Petit gibier",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez un indéniable talent pour sentir le danger. Recevez un avertissement sonore quand vous regardez dans la direction de totems dans un cône de 45° et dans un rayon de 8/10/12 mètres. \"Petit gibier\" a un délai de récupération de 14/12/10 secondes à chaque activation. Pour chaque totem passif ou ensorcelé purifié par le joueur, \"Petit gibier\" gagne 1 jeton. Chaque Jeton réduit l'angle du cône de détection de 5° jusqu'à un minimum de 20°.",
+      "img": ""
+    },
+    {
+      "id": 1756996223797,
+      "name": "Poids plume",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Votre foulée souple et légère rend vos traces difficiles à pister. Réduit la durée de visibilité de vos marques d'éraflure de 3/4/5 secondes. Vos marques d'éraflure apparaissent de façon plus sporadique.",
+      "img": ""
+    },
+    {
+      "id": 1756996257360,
+      "name": "Prémonition",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez un indéniable talent pour sentir le danger. Recevez un avertissement sonore quand vous regardez dans la direction du tueur dans un cône de 45° et dans un rayon de 36 mètres. \"Prémonition\" a un délai de récupération de 60/45/30 secondes à chaque activation.",
+      "img": ""
+    },
+    {
+      "id": 1756996328133,
+      "name": "Résistance",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes proactif dans les situations d'urgence. Augmente vos vitesses d'action pour réparer, soigner, saboter, décrocher, sauter par-dessus des fenêtres, purifier, bénir, Ouvrir les portes de sortie, et déverrouiller des coffres de 3/6/9% quand vous vous trouvez dans l'état blessé.",
+      "img": ""
+    },
+    {
+      "id": 1756996399668,
+      "name": "Sentiment obscur",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Débloque une capacité de repérage d'auras. À chaque fois qu'un générateur est complètement réparé, \"Sentiment obscur\" s'active. L'aura du tueur vous est révélée pendant 5/7/10 secondes, dès qu'il s'approche à moins de 24 mètres de votre position, après quoi \"Sentiment obscur\" est désactivé.",
+      "img": ""
+    },
+    {
+      "id": 1756996450394,
+      "name": "Viande Glissante",
+      "character": "Perk survivant commune",
+      "category": "Survivor",
+      "isCommun": true,
+      "desc": "Vous avez développé une technique efficace pour vous libérer des crochets.\nAccorde 3 tentatives supplémentaires pour se libérer soi-même d'un crochet.\nVos chances d'évasion d'un crochet sont augmentées de 2/3/4%.",
+      "img": ""
+    },
+    {
+      "id": 1757680135030,
+      "name": "Hyperconcentration",
+      "character": "Rebecca Chambers",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous vous jetez à corps perdu dans vos tâches et vous trouvez les moyens d'accroître votre efficience par rapport aux autres. Après avoir réussi un excellent test d'habileté en réparant ou en soignant, \"Hyperconcentration\" gagne 1 jeton, jusqu'à un maximum de 6 jetons. Pour chaque jeton, les effets cumulables suivants sont appliqués. Augmente les chances de déclenchement de tests d'habileté de 4% par jeton. Augmente la vitesse de rotation des tests d'habileté de 4% par jeton. Augmente le bonus de progression des tests d'habileté de 10/20/30% de sa valeur de base par jeton.",
+      "img": ""
+    },
+    {
+      "id": 1757680293751,
+      "name": "Mieux que neuf",
+      "character": "Rebecca Chambers",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes expert en médecine de combat. Les patients repartent revigorés après vos soins. Lorsque vous complétez une action de soins sur un autre survivant, il bénéficie de l'effet suivant jusqu'à ce qu'il soit à nouveau blessé. Augmente ses vitesses d'Action pour soigner, déverrouiller des coffres, purifier, et bénir des totems de 12/14/16%.",
+      "img": ""
+    },
+    {
+      "id": 1757680381508,
+      "name": "Réconfort",
+      "character": "Rebecca Chambers",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre présence aide les alliés à se concentrer et calmer la panique associée aux conditions extrêmes. Lorsque vous vous trouvez à moins de 6 mètres d'un survivant suspendu à un crochet, appuyez sur la touche de capacité active pour interrompre son processus de sacrifice pendant 20/25/30 secondes. Si le survivant au crochet est déjà en phase de lutte, ses tests d'habileté sont mis en pause pendant cette durée.",
+      "img": ""
+    },
+    {
+      "id": 1757680468810,
+      "name": "Débrouillard",
+      "character": "Vittorio Toscano",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Au cours de vos innombrables années dans le Brouillard, vous avez tout vu, et quand vous vous concentrez, vous pouvez vous souvenir de presque tout.\nréussir un excellent test d'habileté en réparant un générateur vous révèle l'aura du tueur pendant 4/5/6 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757680523659,
+      "name": "Gambit prompt",
+      "character": "Vittorio Toscano",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Lorsque vous avez l'attention d'un Tueur, vous savez comment la garder. Les autres peuvent être assurés qu'ils ne seront pas dérangés de sitôt. Augmente la vitesse de réparateur de tous les autres survivants de 6/7/8%, tant que vous êtes poursuivi à moins de 24 mètres du générateur qu'ils sont en train de réparer.",
+      "img": ""
+    },
+    {
+      "id": 1757680714064,
+      "name": "Énergie potentielle",
+      "character": "Vittorio Toscano",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vos capacités arcanes se sont adaptées au royaume de L'Entité après des siècles d'errance, vous conférant un contrôle sans précédent sur ses nombreux appareils. Après avoir réparé des générateurs pour un total de 12/10/8 secondes , appuyez sur la touche de capacité active pour activer \"Énergie potentielle\". Continuer à réparer le générateur chargera \"Énergie potentielle\" au lieu de faire progresser le générateur. Convertit 1,5% de la progression de réparation en 1 jeton, jusqu'à un maximum de 20 jetons. Rater des tests d'habileté fera perdre quelques jetons. Tant que \"Énergie potentielle\" possède au moins 1 jeton, appuyez sur la touche de capacité active en réparant un générateur pour le faire instantanément progresser de 1% par jeton, consommant tous les jetons restants et désactivant \"Énergie potentielle\". \"Énergie potentielle\" perd tous ses jetons et se désactive en perdant un état de santé.",
+      "img": ""
+    },
+    {
+      "id": 1757680882877,
+      "name": "Compétition amicale",
+      "character": "Thalita Lyra",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous vous délectez de l'esprit communautaire d'une compétition, et vous inspirez les autres à faire de même. À chaque fois que vous complétez un générateur avec au moins un autre survivant, \"Compétition amicale\" s'active.\nAugmente votre vitesse de réparations, ainsi que celle des autres survivants qui ont complété les Réparations avec vous, de 5% pendant 45/60/75 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757680978842,
+      "name": "Hors de contrôle",
+      "character": "Thalita Lyra",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous avez votre part de problèmes. Vous savez comment vous en sortir.\nAprès avoir effectué un saut d'obstacle précipité lors d'une poursuite, \"Hors de contrôle\" s'active pendant 4/5/6 secondes. Supprime à la fois le fort bruit d'alerte ainsi que les effets sonores déclenchés par le saut d'obstacle précipité. Réussir à effectuer un saut d'obstacle précipité pendant que \"Hors de contrôle\" est actif réinitialise le compte à rebours. \"Hors de contrôle\" a un délai de récupération de 45 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757681115254,
+      "name": "Travail d'équipe : Pouvoir des deux",
+      "character": "Thalita Lyra",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes difficile à suivre, mais ça n'empêche pas les gens d'essayer.\nDès que vous achevez de soigner un autre survivant, \"Travail d'équipe : Pouvoir des deux\" s'active ; le survivant soigné et vous-même bénéficiez de l'effet suivant en octroyant 5% rapidité tant que vous restez à moins de 12 mètres l'un de l'autre ou que l'un des deux ne perde un état de santé. \"Travail d'équipe : Pouvoir des deux\" a un délai de récupération de 180/160/140 secondes. \"Travail d'équipe : Pouvoir des deux\" ne se cumule pas avec d'autres exemplaires de lui-même.",
+      "img": ""
+    },
+    {
+      "id": 1757683286019,
+      "name": "Coup de collier",
+      "character": "Renato Lyra",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre corps et votre esprit sont affûtés pour de grands exploits et vous permettent de persévérer avec un effort supplémentaire lorsque c'est nécessaire. Une fois que vous êtes à un crochet d'une mort instantanée, \"Coup de collier\" s'active. Appuyez sur la touche de capacité active pour perdre un état de santé et récupérer instantanément de l'effet de statut épuisement. Inflige l'effet de statut brisé pendant 28/24/20 secondes, temps pendant lequel vous vous soignez automatiquement jusqu'à l'état en forme. Annule l'effet de soins en prenant des dégâts. \"Coup de collier\" est désactivé pour le reste de la partie après utilisation.",
+      "img": ""
+    },
+    {
+      "id": 1757683454826,
+      "name": "Joueur arrière",
+      "character": "Renato Lyra",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous n'êtes généralement pas le centre de l'attention. Dans certains cas, ça peut s'avérer utile. Lorsqu'un autre survivant est ramassé, \"Joueur arrière\" s'active pendant les 10 prochaines secondes. Quand vous commencez à courir, vous piquez un sprint à 150 % de votre vitesse de Course normale pendant 5 secondes. \"Joueur arrière\" inflige épuisement pendant 30/25/20 secondes. \"Joueur arrière\" ne peut pas être utilisé en étant épuisé.",
+      "img": ""
+    },
+    {
+      "id": 1757695024284,
+      "name": "Travail d'équipe : Discrétion collective",
+      "character": "Renato Lyra",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Quand quelqu'un vous aide, vous rendez la pareille. À chaque fois qu'un autre Survivant achève de vous soigner, \"Travail d'équipe : Discrétion collective\" s'active. Le survivant qui vous a soigné et vous-même bénéficiez de l'effet suivant. Supprime vos marques d'éraflure tant que vous restez à moins de 12 mètres l'un de l'autre ou que l'un des deux ne perde un état de santé. \"Travail d'équipe : Discrétion collective\" a un délai de récupération de 180/160/140 secondes. \"Travail d'équipe : Discrétion collective\" ne se cumule pas avec d'autres exemplaires de lui-même.",
+      "img": ""
+    },
+    {
+      "id": 1757695196649,
+      "name": "Expert",
+      "character": "Gabriel Soma",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Aucune distraction ne saurait vous arracher à votre tâche principale. Quand le tueur vous pourchasse, \"Expert\" s'active. L'aura du générateur avec la plus grande progression vous est révélé. L'aura du tueur vous est révélée pendant 4/5/6 secondes après avoir fait tomber une palette. Ces effets persistent pendant 6/8/10 secondes après la fin de la poursuite, après quoi \"Expert\" se désactive.",
+      "img": ""
+    },
+    {
+      "id": 1757695334668,
+      "name": "Fait pour ça",
+      "character": "Gabriel Soma",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous êtes né pour survivre, et avez été élevé pour vous adapter.\nDès que vous êtes en état blessé, \"Fait pour ça\" s'active et vous bénéficiez des effets suivants. Un effet de statut rapidité de 1/2/3%. L'Effet de statut endurance pendant 6/8/10 secondes après avoir terminé une action de soins sur un autre survivant. \"Fait pour ça\" ne peut pas être utilisé en souffrant d'épuisement, mais ne cause pas l'effet de statut épuisement.",
+      "img": ""
+    },
+    {
+      "id": 1757695428743,
+      "name": "Récupérateur",
+      "character": "Gabriel Soma",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Là où d'autres ne voient que de la ferraille, vous voyez d'inestimables outils improvisés. En tenant une boîte à outils vide, \"Récupérateur\" s'active. Réussir des excellents tests d'habileté octroie 1 jeton, jusqu'à un maximum de 40/35/30 secondes. Atteindre le nombre maximum de jetons les consomme automatiquement et recharge entièrement la boîte à outils. \"Récupérateur\" est désactivé pour tout le reste de partie après avoir rechargé l'objet. \"Récupérateur\" octroie la capacité à pouvoir fouiller dans un coffre déjà ouvert une fois par partie, et garantit d'y trouver une boîte à outils de base.",
+      "img": ""
+    },
+    {
+      "id": 1757695927877,
+      "name": "Dramaturgie",
+      "character": "Nicolas Cage",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Lorsque les gens vous intègrent à leur projet, ils le font en raison de la magie inattendue que vous amenez à votre performance. Lorsque vous êtes en En forme, \"Dramaturgie\" s'active. Pendant que vous courez, appuyez sur la touche de capacité active pour courir en levant les genoux pendant 0,5 seconde et gagner un effet de statut rapidité de 25% pendant 2 secondes, suivi de l'un des effets suivants choisi aléatoirement. Vous souffrez de l'effet de statut à découvert pendant 12 secondes. Vous gagnez l'effet de statut rapidité pendant encore 2 secondes. Vous hurlez, mais rien ne se produit. Vous gagnez un objet de rareté rare équipé d'accessoires aléatoires, et vous lâchez tout objet que vous teniez déjà. Le même effet ne peut se produire deux fois de suite. \"Dramaturgie\" provoque l'effet de statut épuisement pendant 60/50/40 secondes. \"Dramaturgie\" ne peut pas être utilisé en étant épuisé.",
+      "img": ""
+    },
+    {
+      "id": 1757696013997,
+      "name": "Partenaire de scène",
+      "character": "Nicolas Cage",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous et votre co-star développez une relation fusionnelle, et vous interagissez et réagissez mutuellement à un niveau supérieur. Lorsque vous vous trouvez dans le rayon de terreur du tueur, \"Partenaire de scène\" s'active. Lorsque vous regardez le tueur, vous hurlez puis vous voyez son aura pendant 3/4/5 secondes. Il y a une probabilité de 50% que vous hurliez à nouveau, vous révélant alors l'aura du tueur pendant 2 secondes supplémentaires . \"Partenaire de scène\" a un délai de récupération de 60 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757696141449,
+      "name": "Rebondissement",
+      "character": "Nicolas Cage",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Les moments clés sont vitaux, mais vous savez que, parfois, une lecture sous-jouée peut être tout aussi percutante. Lorsque vous êtes en état blessé, \"Rebondissement\" s'active. Quand vous êtes en position accroupie et immobile, appuyez sur la touche de capacité active pour vous retrouver en état critique silencieusement avec les avantages suivants. Supprime les gémissements de douleur. Supprime les flaques de sang. Accorde la possibilité de récupérer complètement de l'état critique. Lorsque vous récupérez par vous-même avec \"Rebondissement\", vous redevenez en bonne santé instantanément et vous gagnez 50 % de rapidité pendant 2/3/4 secondes. \"Rebondissement\" se désactive si vous récupérez par vous-mêmes par d'autres moyens. \"Rebondissement\" se réactive lorsque les portes de sortie sont alimentées.",
+      "img": ""
+    },
+    {
+      "id": 1757696237540,
+      "name": "Bonne étoile",
+      "character": "Ellen Ripley",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vous savez comment rester calme face à un danger incompréhensible.\nLorsque vous vous cachez dans un casier, \"Bonne étoile\" s'active. Supprime vos gémissements de douleur et la création de flaques de Sang pendant 10 secondes En quittant le casier, vous bénéficiez des effets suivants pendant 10 secondes. L'aura des autres survivants vous est révélée. L'aura du générateur le plus proche vous est révélée en jaune. \"Bonne étoile\" a un délai de récupération de 40/35/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757696340206,
+      "name": "Piège chimique",
+      "character": "Ellen Ripley",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Un quartier-maître est toujours préparé pour protéger son équipage.\nAprès avoir réparé des générateurs pour un total cumulé de 20%, \"Piège chimique\" s'active. En vous tenant près d'une palette renversée, appuyez sur la touche de capacité active 2 pour installer un piège qui reste actif pendant 40/50/60 secondes. L' aura des palettes piégées est révélée en jaune à tous les survivants. Lorsque le tueur détruit la palette piégée, le piège explose, ralentissant le Tueur de 50% pendant 4 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757696420675,
+      "name": "À pas de chat",
+      "character": "Ellen Ripley",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Avoir croisé la route de chasseurs mortels vous a enseigné la valeur de la discrétion. Lorsque vous êtes en forme, \"À pas de chat\" s'active. Supprime vos bruits de pas en courant. \"À pas de chat\" a un délai de récupération de 28/24/20 secondes après avoir effectué une action précipitée.",
+      "img": ""
+    },
+    {
+      "id": 1757696629133,
+      "name": "Bénédiction : Illumination",
+      "character": "Alan Wake",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Votre vive perspicacité brille d'autant plus qu'elle est partagée avec les autres. Appuyer et maintenir la touche de capacité active près d'un totem passif ou ensorcelé pour le bénir et créer un totem de bénédiction. De doux tintements résonnent du totem dans un rayon de 24 mètres. Les survivants à l'intérieur du rayon du totem de bénédiction bénéficient des effets suivants. Les auras de tous les coffres et générateurs vous sont révélés en bleu. Augmente la vitesse de bénédiction et de purification de 6/8/10% lorsqu'un totem de bénédiction est actif. \"Bénédiction : Illumination\" ne se cumule pas avec d'autres exemplaires de lui-même. Un seul totem peut être béni à la fois par vos compétences de bénédiction et tous leurs effets sont actifs sur le même totem de bénédiction.",
+      "img": ""
+    },
+    {
+      "id": 1757696715490,
+      "name": "Champion de la lumière",
+      "character": "Alan Wake",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "L'éclat de la lampe de poche semble un peu différent, un peu plus chaud.\nLorsque vous faites briller votre lampe de poche, \"Champion de la lumière\" s'active. Accorde 50% de Rapidité. Lorsque vous réussissez à aveugler le tueur avec votre lampe de poche il subit aussi 20% d'entrave pendant 6 secondes.\nCet effet ne s'accumule pas. \"Champion de la lumière\" a un temps de rechargement de 80/70/60 secondes après avoir aveuglé le tueur.",
+      "img": ""
+    },
+    {
+      "id": 1757697262759,
+      "name": "Échéance",
+      "character": "Alan Wake",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Le désespoir s'insinue et vous vous forcez à travailler plus dur. Lorsque vous êtes en État Blessé, \"Échéance\" s'active. Augmente la fréquence d'apparition des tests d'habileté de 6/8/10% lorsque vous réparez ou soignez. Apparition à des emplacements aléatoires. Réduit la pénalité pour les tests d'habileté manqués de 50 %.",
+      "img": ""
+    },
+    {
+      "id": 1757697506887,
+      "name": "Invocation : Araignées tisseuses",
+      "character": "Sable Ward",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "L'endroit où la peur s'installe et où la terreur marche est aussi l'endroit où ceux dotés du don peuvent aller au-delà du voile. Lorsque vous êtes près du cercle de la cave, appuyez sur le bouton de capacité active pour commencer l'Invocation. Les invocations prennent 60 secondes. Les autres Survivants verront votre aura pendant cela et pourront se joindre à une interaction en cours, augmentant chaque fois la vitesse de 50%. S'ils ont une compétence d'invocation équipée, la vitesse est augmentée de 100%. Une fois l'Invocation terminée, réduit le maximum de charges requises de tous les générateurs restants de 8/9/10 charges instantanément. Vous vous retrouvez en état blessé et vous gagnez l'effet de statut brisé pour le reste de l'épreuve. Terminer l'invocation elle se désactive pour le reste de l'épreuve toute compétence d'invocation pour tous les survivants.",
+      "img": ""
+    },
+    {
+      "id": 1757697676532,
+      "name": "L'ombre fait la force",
+      "character": "Sable Ward",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "L'occasion de récupérer du pouvoir là où réside le danger. Lorsque vous êtes dans la cave, \"L'ombre fait la force\" s'active. Débloque la capacité \"L'ombre fait la force\", qui vous permet de vous soigner sans trousse de soins à une vitesse de soins normale de 70%. Lorsque vous terminez une guérison au sous-sol, vous voyez l'aura du tueur pendant 6/8/10 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757698250565,
+      "name": "Malice",
+      "character": "Sable Ward",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Ils peuvent chercher à vous blesser. Mais vous ne vous laissez pas abattre si facilement. Vos tentatives pour vous décrocher vous-même dans la cave réussissent toujours. Lorsque vous vous décrochez vous-même ou qu'on vous décroche, vous voyez l'aura du tueur pendant 16/18/20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757698408860,
+      "name": "Illusion du miroir",
+      "character": "Aestri Yazar & Baermar Uraz",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Un sortilège familier devenu inconnu dans ce paysage corrompu. Quand vous réparez 20% d'un générateur, \"Illusion du miroir\" s'active. Appuyez sur la touche de capacité active près d'un coffre, des porte de sortie, d'un générateur, ou d'un totem pour générer une illusion statique qui dure 100/110/120 secondes, puis \"Illusion du miroir\" se désactive.",
+      "img": ""
+    },
+    {
+      "id": 1757698531336,
+      "name": "Inspiration bardique",
+      "character": "Aestri Yazar & Baermar Uraz",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Il est temps d'offrir un spectacle à votre public. Allez-vous casser la baraque ou vous étrangler ? Appuyez sur la touche de capacité active pendant que vous êtes debout et immobile pour commencer l'interaction du numéro qui dure jusqu'à 15 secondes et renforce les survivants dans un rayon de 16 mètres de vous. Lancez un dé 20. Cet effet perdure 90 secondes après la fin du numéro. 1 : vous hurlez, mais rien ne se produit. 2 - 10 : les tests d'habileté donnent 1% de progression. 11 - 19 : les tests d'habileté donnent 2% de progression. 20 : les tests d'habileté donnent  3% de progression. Lorsqu'un test d'habileté est raté ou que le numéro est terminé, \"Inspiration bardique\" se recharge pendant 110/100/90 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757698588971,
+      "name": "Vision immobile",
+      "character": "Aestri Yazar & Baermar Uraz",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Un esprit clair et un tempérament calme trouveront toujours le moyen de s'échapper. Lorsque vous restez immobile pendant 6/5/4 secondes, \"Vision immobile\" s'active. Tant que vous ne bougez pas, vous voyez l'aura du tueur ainsi que celle de tous les générateurs et des coffres dans un rayon de 24 mètres.",
+      "img": ""
+    },
+    {
+      "id": 1757698641975,
+      "name": "Endurcie",
+      "character": "Lara Croft",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Vivez suffisamment longtemps, et vous aurez la survie dans le sang. Après avoir déverrouillé un coffre ou purifié ou béni un totem, \"Endurcie\" s'active. Supprime l'envie de crier, quelle qu'en soit la cause, et fait en sorte que l'aura du tueur vous soit révélée pendant 3/4/5 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757698688145,
+      "name": "Finesse",
+      "character": "Lara Croft",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "La menace du danger peut motiver n'importe quelle créature à s'armer de courage. Lorsque vous êtes en bonne santé, \"Finesse\" s'active. Augmente la vitesse de vos saut en courant de 20%. \"Finesse\" a un temps de récupération de 40/35/30 secondes après avoir effectué un saut en courant.",
+      "img": ""
+    },
+    {
+      "id": 1757698791084,
+      "name": "Spécialiste",
+      "character": "Lara Croft",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "L'aventure. L'exploration. L'excavation. Là vous êtes dans votre élément.\nChaque fois que vous ouvrez ou fouillez un coffre, \"Spécialiste\" gagne 1 jeton, jusqu'à un maximum de 3 jetons. Lorsque vous effectuez un excellent test d'habileté en réparant un générateur, vous consommez tous les jetons. Réduit de manière permanente la progression maximale requise du générateur de 2/3/4 charges par Jeton, jusqu'à un maximum de 6/9/12 charges.",
+      "img": ""
+    },
+    {
+      "id": 1757698868918,
+      "name": "Exultation",
+      "character": "Trevor Belmont",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "La fortune sourit aux audacieux, même dans les recoins les plus sombres de l’existence. Étourdir le tueur avec une palette améliore la Rareté de l'objet que vous tenez au rang suivant. Recharge l'objet de 25%. \"Exultation\" a un temps de recharge de 40/35/30 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757699613043,
+      "name": "Moment de gloire",
+      "character": "Trevor Belmont",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Un héros devrait toujours avoir la possibilité de faire son retour. \"Moment de gloire\" s'active après avoir ouvert ou fouillé 2 coffres. Lorsque vous êtes blessé, vous souffrez instantanément de l'effet de statut brisé. Vous guérissez automatiquement 1 état de santé après 80/70/60 secondes. Cet effet est annulé si vous passez en état critique. \"Moment de gloire\" Cette compétence ne s’activera pas si vous souffrez déjà de l'effet de statut brisé. \"Moment de gloire\" se désactive après vous avoir soigné.",
+      "img": ""
+    },
+    {
+      "id": 1757704668150,
+      "name": "Yeux de Belmont",
+      "character": "Trevor Belmont",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Un passé de chasse aux vampires a conféré à la lignée certaines capacités.\nLorsqu'un générateur est complété, vous voyez l'aura du tueur pendant 1/2/3 secondes. Augmente la durée de toutes les occurrences où l'aura du tueur vous est révélée pendant 2 secondes supplémentaires.",
+      "img": ""
+    },
+    {
+      "id": 1757773161118,
+      "name": "Endosse le fardeau",
+      "character": "Taurie Cain",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Née pour être une disciple. Prête à te soumettre à une cause supérieure. Voici ta vocation. Une fois par épreuve, tant que vous n'êtes pas à votre crochet fatal, appuyez sur la touche de capacité active en vous tenant devant un survivants accroché pour le décrocher et déclencher les effets suivants. Échangez 1 état de crochet avec l'autre survivant à son profit. Vous hurlez.\nVous souffrez de l'effet de statut à découvert pendant 30/25/20 secondes.",
+      "img": ""
+    },
+    {
+      "id": 1757773360847,
+      "name": "Invocation : Corbeaux traîtres",
+      "character": "Taurie Cain",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Toute personne versée dans les savoirs arcanes n'a nulle raison de redouter ces vigilants volatiles. Lorsque vous êtes près du cercle de la cave, appuyez sur le bouton de capacité active pour commencer l'invocation. Les Invocations prennent 60 secondes. Les autres survivants verront votre aura pendant cela et pourront se joindre à une interaction en cours, augmentant chaque fois la vitesse de 50%. S'ils ont une compétence d'invocation équipée, la vitesse est augmentée de 100%. Une fois l'invocation achevée, les effets suivants s'appliquent. Lorsque le tueur effraie un corbeau alors qu'un survivant est dans son rayon de terreur, son aura est révélée à tous les survivants pendant 1/1.5/2 secondes. Vous entrez automatiquement en état blessé depuis n'importe quel état de santé précédent, et souffrez de l'effet de statut brisé pour le reste de l'épreuve. Terminer l'invocation désactive pour le reste de l'épreuve toute compétence d'invocation pour tous les survivants.",
+      "img": ""
+    },
+    {
+      "id": 1757773484723,
+      "name": "Rupture nette",
+      "character": "Taurie Cain",
+      "category": "Survivor",
+      "isCommun": false,
+      "desc": "Au bout du compte, on ne peut compter que sur soi-même. Après avoir fini de Soigner un autre survivant, \"Rupture nette\" s'active. Appuyez sur le la touche de capacité active pendant que vous êtes soigné par un autre survivant pour déclencher les effets suivants. Vous souffrez de l'effet de statut brisé. Vous retrouvez automatiquement 1 état de santé après 80/70/60 secondes. Cet effet est annulé prématurément si vous entrez dans l'état critique. \"Rupture nette\" ne s'active pas si vous souffrez déjà de l'effet de statut brisé. \"Rupture nette\" se désactive après vous avoir soigné.",
+      "img": ""
+    }
+  ]
+}
